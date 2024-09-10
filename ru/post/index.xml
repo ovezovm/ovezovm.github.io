@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | Мой сайт</title>
+    <link>https://ovezovm.github.io/ru/post/</link>
+      <atom:link href="https://ovezovm.github.io/ru/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 27 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ovezovm.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Blog</title>
+      <link>https://ovezovm.github.io/ru/post/</link>
+    </image>
+    
+    <item>
+      <title>Пост по неделе с 22 по 28 апреля</title>
+      <link>https://ovezovm.github.io/ru/post/summary3/</link>
+      <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://ovezovm.github.io/ru/post/summary3/</guid>
+      <description>&lt;h2 id=&#34;третий-пост&#34;&gt;Третий пост&lt;/h2&gt;
+&lt;p&gt;Данный пост является примером(демо) в котором я демострирую что разобрался как рабоотать с постами&lt;/p&gt;
+&lt;h2 id=&#34;произошедшее-на-неделе&#34;&gt;Произошедшее на неделе&lt;/h2&gt;
+&lt;p&gt;Недля проашлп стандарто. Никаких отклонений от нормальности зафиксировано не было.&lt;/p&gt;
+&lt;h2 id=&#34;пример-нкмерации&#34;&gt;Пример нкмерации&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;первый пункт&lt;/li&gt;
+&lt;li&gt;второй пункт&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пост по неделе с 1 по 7 Апреля</title>
+      <link>https://ovezovm.github.io/ru/post/summary2/</link>
+      <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://ovezovm.github.io/ru/post/summary2/</guid>
+      <description>&lt;h2 id=&#34;первый-пост&#34;&gt;Первый пост&lt;/h2&gt;
+&lt;p&gt;Данный пост является примером в котором я демострирую что разобрался как рабоотать с постами 2.0&lt;/p&gt;
+&lt;h2 id=&#34;произошедшее-на-неделе&#34;&gt;Произошедшее на неделе&lt;/h2&gt;
+&lt;p&gt;Недля прошла стандарто. Никаких отклонений от нормальности зафиксировано не было.&lt;/p&gt;
+&lt;h2 id=&#34;пример-нумерации&#34;&gt;Пример нумерации&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;На той неделе была контра по мат. анализу.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;на этой неделе была контрольная по дискретной математике.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пост по неделе с 11 по 17 марта</title>
+      <link>https://ovezovm.github.io/ru/post/summary1/</link>
+      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://ovezovm.github.io/ru/post/summary1/</guid>
+      <description>&lt;h2 id=&#34;первый-пост&#34;&gt;Первый пост&lt;/h2&gt;
+&lt;p&gt;Данный пост является примером(демо) в котором я демострирую что разобрался как рабоотать с постами&lt;/p&gt;
+&lt;h2 id=&#34;произошедшее-на-неделе&#34;&gt;Произошедшее на неделе&lt;/h2&gt;
+&lt;p&gt;Недля проашлп стандарто. Никаких отклонений от нормальности зафиксировано не было.&lt;/p&gt;
+&lt;h2 id=&#34;пример-нумерации&#34;&gt;Пример нумерации&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;первый пункт&lt;/li&gt;
+&lt;li&gt;второй пункт&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

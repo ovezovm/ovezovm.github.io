@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | My Site</title>
+    <link>https://ovezovm.github.io/post/</link>
+      <atom:link href="https://ovezovm.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ovezovm.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Blog</title>
+      <link>https://ovezovm.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>Post for the week from April 22 to 28</title>
+      <link>https://ovezovm.github.io/post/summary3/</link>
+      <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://ovezovm.github.io/post/summary3/</guid>
+      <description>&lt;h2 id=&#34;third-post&#34;&gt;Third post&lt;/h2&gt;
+&lt;p&gt;This post is a demo where I demonstrate that I have figured out how to work with posts.&lt;/p&gt;
+&lt;h2 id=&#34;events-of-the-week&#34;&gt;Events of the week&lt;/h2&gt;
+&lt;p&gt;The week passed as usual. No deviations from normality were recorded.&lt;/p&gt;
+&lt;h2 id=&#34;example-of-numbering&#34;&gt;Example of numbering&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;first item&lt;/li&gt;
+&lt;li&gt;second item&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Post for the week from April 1 to 7</title>
+      <link>https://ovezovm.github.io/post/summary2/</link>
+      <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://ovezovm.github.io/post/summary2/</guid>
+      <description>&lt;h2 id=&#34;first-post&#34;&gt;First post&lt;/h2&gt;
+&lt;p&gt;This post is an example where I demonstrate that I figured out how to work with posts 2.0.&lt;/p&gt;
+&lt;h2 id=&#34;events-of-the-week&#34;&gt;Events of the week&lt;/h2&gt;
+&lt;p&gt;The week passed as usual. No deviations from normality were recorded.&lt;/p&gt;
+&lt;h2 id=&#34;example-of-numbering&#34;&gt;Example of numbering&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Last week there was a midterm in mathematical analysis.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;This week there was a test in discrete mathematics.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Post for the week from March 11 to 17</title>
+      <link>https://ovezovm.github.io/post/summary1/</link>
+      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://ovezovm.github.io/post/summary1/</guid>
+      <description>&lt;h2 id=&#34;first-post&#34;&gt;First post&lt;/h2&gt;
+&lt;p&gt;This post is a demo where I demonstrate that I have figured out how to work with posts.&lt;/p&gt;
+&lt;h2 id=&#34;events-of-the-week&#34;&gt;Events of the week&lt;/h2&gt;
+&lt;p&gt;The week passed as usual. No deviations from normality were recorded.&lt;/p&gt;
+&lt;h2 id=&#34;example-of-numbering&#34;&gt;Example of numbering&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;first item&lt;/li&gt;
+&lt;li&gt;second item&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
