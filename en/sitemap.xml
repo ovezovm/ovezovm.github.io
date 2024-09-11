@@ -93,6 +93,16 @@
     <loc>https://ovezovm.github.io/post/yanaperesdache/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://ovezovm.github.io/ru/post/yanaperesdache/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://ovezovm.github.io/post/yanaperesdache/"
+                />
   </url><url>
     <loc>https://ovezovm.github.io/tags/other/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>

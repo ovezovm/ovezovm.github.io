@@ -77,7 +77,7 @@
                 />
   </url><url>
     <loc>https://ovezovm.github.io/ru/post/</loc>
-    <lastmod>2024-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -91,7 +91,7 @@
                 />
   </url><url>
     <loc>https://ovezovm.github.io/ru/tags/other/</loc>
-    <lastmod>2024-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -102,6 +102,20 @@
                 rel="alternate"
                 hreflang="ru-ru"
                 href="https://ovezovm.github.io/ru/tags/other/"
+                />
+  </url><url>
+    <loc>https://ovezovm.github.io/ru/post/yanaperesdache/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://ovezovm.github.io/post/yanaperesdache/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://ovezovm.github.io/ru/post/yanaperesdache/"
                 />
   </url><url>
     <loc>https://ovezovm.github.io/ru/post/post-na-vibor-2/</loc>

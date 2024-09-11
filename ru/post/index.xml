@@ -5,12 +5,22 @@
     <link>https://ovezovm.github.io/ru/post/</link>
       <atom:link href="https://ovezovm.github.io/ru/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 05 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Wed, 11 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ovezovm.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Blog</title>
       <link>https://ovezovm.github.io/ru/post/</link>
     </image>
+    
+    <item>
+      <title>Я пришел на пересдачу</title>
+      <link>https://ovezovm.github.io/ru/post/yanaperesdache/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://ovezovm.github.io/ru/post/yanaperesdache/</guid>
+      <description>&lt;h2 id=&#34;я-на-моей-последней-пересдаче&#34;&gt;Я на моей последней пересдаче&lt;/h2&gt;
+&lt;p&gt;Я пришел на свою последнюю возможность сдать экзамен. Сегодня в аудитории возле столовой все свершится. Я или смогу или нет. Сегодня 11 сентября и я сдаю пересдачу по предмету Архитектура компьютеров и операционных систем и сейчас я пишу этот пост, чтобы сдать его. Ул Орджоникидзе, Университет Дружбы Народов. Я второй курс.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Работа с библиографией</title>
