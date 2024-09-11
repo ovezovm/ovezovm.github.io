@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic | Мой сайт</title>
-    <link>http://localhost:41699/ru/tags/academic/</link>
-      <atom:link href="http://localhost:41699/ru/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:39193/ru/tags/academic/</link>
+      <atom:link href="http://localhost:39193/ru/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 16 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:41699/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:39193/media/icon_hu7729264130191091259.png</url>
       <title>Academic</title>
-      <link>http://localhost:41699/ru/tags/academic/</link>
+      <link>http://localhost:39193/ru/tags/academic/</link>
     </image>
     
     <item>
       <title>Пост по прошедшей неделе (11-17 марта)</title>
-      <link>http://localhost:41699/ru/post/nedelniy-post-1/</link>
+      <link>http://localhost:39193/ru/post/nedelniy-post-1/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:41699/ru/post/nedelniy-post-1/</guid>
+      <guid>http://localhost:39193/ru/post/nedelniy-post-1/</guid>
       <description>&lt;h2 id=&#34;социальный-аспект&#34;&gt;Социальный аспект&lt;/h2&gt;
 &lt;p&gt;Эта неделя была насыщенной и наполненной самыми разными впечатлениями. Я окунулся в мир искусства и культуры, посетив несколько интересных мероприятий. Каждое из них подарило новые эмоции, размышления и вдохновение. Живые выступления и галереи помогли мне отключиться от повседневной суеты и немного переосмыслить привычные вещи.&lt;/p&gt;
 &lt;h2 id=&#34;воссоединение&#34;&gt;Воссоединение&lt;/h2&gt;
@@ -30,9 +30,9 @@
     
     <item>
       <title>Пост по прошедшей неделе (15-22 июня)</title>
-      <link>http://localhost:41699/ru/post/nedelniy-post-3/</link>
+      <link>http://localhost:39193/ru/post/nedelniy-post-3/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:41699/ru/post/nedelniy-post-3/</guid>
+      <guid>http://localhost:39193/ru/post/nedelniy-post-3/</guid>
       <description>&lt;h2 id=&#34;возвращение-домой&#34;&gt;Возвращение домой&lt;/h2&gt;
 &lt;p&gt;На прошлой неделе я наконец вернулся на родину. Этот момент я ждал долго, и он превзошел все ожидания. Как только я вышел из самолета, меня охватило ощущение чего-то родного, знакомого. Воздух, запахи, даже шум улиц — всё напоминало о детстве.&lt;/p&gt;
 &lt;h2 id=&#34;по-прибытию&#34;&gt;По прибытию&lt;/h2&gt;
@@ -46,9 +46,9 @@
     
     <item>
       <title>Пост по прошедшей неделе (22-28 мая)</title>
-      <link>http://localhost:41699/ru/post/nedelniy-post-2/</link>
+      <link>http://localhost:39193/ru/post/nedelniy-post-2/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:41699/ru/post/nedelniy-post-2/</guid>
+      <guid>http://localhost:39193/ru/post/nedelniy-post-2/</guid>
       <description>&lt;h2 id=&#34;очередная-выставка&#34;&gt;Очередная выставка&lt;/h2&gt;
 &lt;p&gt;Прошедшая неделя выдалась насыщенной и запоминающейся. Началась она с похода на выставку, где меня впечатлили не только работы современных художников, но и атмосфера искусства в целом. Было здорово увидеть, как искусство влияет на восприятие окружающего мира, и уйти с новыми мыслями и идеями.&lt;/p&gt;
 &lt;h2 id=&#34;отдых&#34;&gt;Отдых&lt;/h2&gt;
@@ -62,9 +62,9 @@
     
     <item>
       <title>Пост по прошедшей неделе (23-30 июня)</title>
-      <link>http://localhost:41699/ru/post/nedelniy-post-4/</link>
+      <link>http://localhost:39193/ru/post/nedelniy-post-4/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:41699/ru/post/nedelniy-post-4/</guid>
+      <guid>http://localhost:39193/ru/post/nedelniy-post-4/</guid>
       <description>&lt;h2 id=&#34;кратко&#34;&gt;Кратко&lt;/h2&gt;
 &lt;p&gt;Поскольку я все еще нахожусь дома, то прошедшая неделя толком не отличается от прошлой, которую можно найти в предыдущем посте. Я посетил родственников, которые живут не рядом с нами, увиделся еще с многими друзьями и помогал родителям по хозяйству.&lt;/p&gt;
 </description>
@@ -72,9 +72,9 @@
     
     <item>
       <title>Пост по прошедшей неделе (24-31 августа)</title>
-      <link>http://localhost:41699/ru/post/nedelniy-post-5/</link>
+      <link>http://localhost:39193/ru/post/nedelniy-post-5/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:41699/ru/post/nedelniy-post-5/</guid>
+      <guid>http://localhost:39193/ru/post/nedelniy-post-5/</guid>
       <description>&lt;h2 id=&#34;грустно&#34;&gt;Грустно&lt;/h2&gt;
 &lt;p&gt;Эти месяца на родине пролетели слишком быстро. Казалось, только что встретился с родными, обнял родителей, посидел с друзьями, а уже пора возвращаться на учебу. Так странно осознавать, что снова предстоит покидать все то, что так дорого.&lt;/p&gt;
 &lt;p&gt;Каждый уголок здесь пропитан воспоминаниями, и с каждым днем отъезд кажется все тяжелее. Буду скучать по вечерам с близкими и прогулкам по знакомым улицам. Впереди, конечно, новые знания и возможности, но оставлять дом — всегда сложно.&lt;/p&gt;

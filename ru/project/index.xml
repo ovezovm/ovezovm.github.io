@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Мой сайт</title>
-    <link>http://localhost:41699/ru/project/</link>
-      <atom:link href="http://localhost:41699/ru/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:39193/ru/project/</link>
+      <atom:link href="http://localhost:39193/ru/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 12 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:41699/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:39193/media/icon_hu7729264130191091259.png</url>
       <title>Projects</title>
-      <link>http://localhost:41699/ru/project/</link>
+      <link>http://localhost:39193/ru/project/</link>
     </image>
     
     <item>
       <title>ЛОШАДИ</title>
-      <link>http://localhost:41699/ru/project/pandas/</link>
+      <link>http://localhost:39193/ru/project/pandas/</link>
       <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:41699/ru/project/pandas/</guid>
+      <guid>http://localhost:39193/ru/project/pandas/</guid>
       <description>&lt;p&gt;Исследовательская работа про чудесных животных - лошадей!&lt;/p&gt;</description>
     </item>
     

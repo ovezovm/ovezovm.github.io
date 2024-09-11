@@ -2,356 +2,356 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:41699/publication/conference-paper/</loc>
+    <loc>http://localhost:39193/publication/conference-paper/</loc>
     <lastmod>2030-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:41699/ru/publication/conference-paper/"
+                href="http://localhost:39193/ru/publication/conference-paper/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:41699/publication/conference-paper/"
+                href="http://localhost:39193/publication/conference-paper/"
                 />
   </url><url>
-    <loc>http://localhost:41699/tags/horses/</loc>
+    <loc>http://localhost:39193/tags/horses/</loc>
     <lastmod>2030-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:41699/publication_types/</loc>
+    <loc>http://localhost:39193/publication_types/</loc>
     <lastmod>2030-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:41699/ru/publication_types/"
+                href="http://localhost:39193/ru/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:41699/publication_types/"
+                href="http://localhost:39193/publication_types/"
                 />
   </url><url>
-    <loc>http://localhost:41699/publication/</loc>
+    <loc>http://localhost:39193/publication/</loc>
     <lastmod>2030-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:41699/ru/publication/"
+                href="http://localhost:39193/ru/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:41699/publication/"
+                href="http://localhost:39193/publication/"
                 />
   </url><url>
-    <loc>http://localhost:41699/publication_types/scientific-research/</loc>
+    <loc>http://localhost:39193/publication_types/scientific-research/</loc>
     <lastmod>2030-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:41699/tags/</loc>
+    <loc>http://localhost:39193/tags/</loc>
     <lastmod>2030-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:41699/ru/tags/"
+                href="http://localhost:39193/ru/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:41699/tags/"
+                href="http://localhost:39193/tags/"
                 />
   </url><url>
-    <loc>http://localhost:41699/event/example/</loc>
+    <loc>http://localhost:39193/event/example/</loc>
     <lastmod>2024-09-09T14:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:41699/ru/event/example/"
+                href="http://localhost:39193/ru/event/example/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:41699/event/example/"
+                href="http://localhost:39193/event/example/"
                 />
   </url><url>
-    <loc>http://localhost:41699/event/</loc>
+    <loc>http://localhost:39193/event/</loc>
     <lastmod>2024-09-09T14:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:41699/ru/event/"
+                href="http://localhost:39193/ru/event/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:41699/event/"
+                href="http://localhost:39193/event/"
                 />
   </url><url>
-    <loc>http://localhost:41699/post/</loc>
+    <loc>http://localhost:39193/post/</loc>
     <lastmod>2024-07-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:41699/ru/post/"
+                href="http://localhost:39193/ru/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:41699/post/"
+                href="http://localhost:39193/post/"
                 />
   </url><url>
-    <loc>http://localhost:41699/post/post-na-vibor-5/</loc>
+    <loc>http://localhost:39193/post/post-na-vibor-5/</loc>
     <lastmod>2024-07-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:41699/ru/post/post-na-vibor-5/"
+                href="http://localhost:39193/ru/post/post-na-vibor-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:41699/post/post-na-vibor-5/"
+                href="http://localhost:39193/post/post-na-vibor-5/"
                 />
   </url><url>
-    <loc>http://localhost:41699/tags/other/</loc>
+    <loc>http://localhost:39193/tags/other/</loc>
     <lastmod>2024-07-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:41699/ru/tags/other/"
+                href="http://localhost:39193/ru/tags/other/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:41699/tags/other/"
+                href="http://localhost:39193/tags/other/"
                 />
   </url><url>
-    <loc>http://localhost:41699/post/post-na-vibor-4/</loc>
+    <loc>http://localhost:39193/post/post-na-vibor-4/</loc>
     <lastmod>2024-07-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:41699/ru/post/post-na-vibor-4/"
+                href="http://localhost:39193/ru/post/post-na-vibor-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:41699/post/post-na-vibor-4/"
+                href="http://localhost:39193/post/post-na-vibor-4/"
                 />
   </url><url>
-    <loc>http://localhost:41699/projects/</loc>
+    <loc>http://localhost:39193/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:41699/ru/projects/"
+                href="http://localhost:39193/ru/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:41699/projects/"
+                href="http://localhost:39193/projects/"
                 />
   </url><url>
-    <loc>http://localhost:41699/post/post-na-vibor-3/</loc>
+    <loc>http://localhost:39193/post/post-na-vibor-3/</loc>
     <lastmod>2024-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:41699/ru/post/post-na-vibor-3/"
+                href="http://localhost:39193/ru/post/post-na-vibor-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:41699/post/post-na-vibor-3/"
+                href="http://localhost:39193/post/post-na-vibor-3/"
                 />
   </url><url>
-    <loc>http://localhost:41699/post/post-na-vibor-2/</loc>
+    <loc>http://localhost:39193/post/post-na-vibor-2/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:41699/ru/post/post-na-vibor-2/"
+                href="http://localhost:39193/ru/post/post-na-vibor-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:41699/post/post-na-vibor-2/"
+                href="http://localhost:39193/post/post-na-vibor-2/"
                 />
   </url><url>
-    <loc>http://localhost:41699/tags/hobbyhorsing/</loc>
+    <loc>http://localhost:39193/tags/hobbyhorsing/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:41699/project/pandas/</loc>
+    <loc>http://localhost:39193/project/pandas/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:41699/ru/project/pandas/"
+                href="http://localhost:39193/ru/project/pandas/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:41699/project/pandas/"
+                href="http://localhost:39193/project/pandas/"
                 />
   </url><url>
-    <loc>http://localhost:41699/tags/nature/</loc>
+    <loc>http://localhost:39193/tags/nature/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:41699/project/</loc>
+    <loc>http://localhost:39193/project/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:41699/ru/project/"
+                href="http://localhost:39193/ru/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:41699/project/"
+                href="http://localhost:39193/project/"
                 />
   </url><url>
-    <loc>http://localhost:41699/experience/</loc>
+    <loc>http://localhost:39193/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:41699/ru/experience/"
+                href="http://localhost:39193/ru/experience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:41699/experience/"
+                href="http://localhost:39193/experience/"
                 />
   </url><url>
-    <loc>http://localhost:41699/</loc>
+    <loc>http://localhost:39193/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:41699/ru/"
+                href="http://localhost:39193/ru/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:41699/"
+                href="http://localhost:39193/"
                 />
   </url><url>
-    <loc>http://localhost:41699/tags/academic/</loc>
+    <loc>http://localhost:39193/tags/academic/</loc>
     <lastmod>2020-03-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:41699/ru/tags/academic/"
+                href="http://localhost:39193/ru/tags/academic/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:41699/tags/academic/"
+                href="http://localhost:39193/tags/academic/"
                 />
   </url><url>
-    <loc>http://localhost:41699/post/nedelniy-post-5/</loc>
+    <loc>http://localhost:39193/post/nedelniy-post-5/</loc>
     <lastmod>2020-03-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:41699/ru/post/nedelniy-post-5/"
+                href="http://localhost:39193/ru/post/nedelniy-post-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:41699/post/nedelniy-post-5/"
+                href="http://localhost:39193/post/nedelniy-post-5/"
                 />
   </url><url>
-    <loc>http://localhost:41699/post/nedelniy-post-3/</loc>
+    <loc>http://localhost:39193/post/nedelniy-post-3/</loc>
     <lastmod>2020-03-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:41699/ru/post/nedelniy-post-3/"
+                href="http://localhost:39193/ru/post/nedelniy-post-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:41699/post/nedelniy-post-3/"
+                href="http://localhost:39193/post/nedelniy-post-3/"
                 />
   </url><url>
-    <loc>http://localhost:41699/post/nedelniy-post-4/</loc>
+    <loc>http://localhost:39193/post/nedelniy-post-4/</loc>
     <lastmod>2020-03-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:41699/ru/post/nedelniy-post-4/"
+                href="http://localhost:39193/ru/post/nedelniy-post-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:41699/post/nedelniy-post-4/"
+                href="http://localhost:39193/post/nedelniy-post-4/"
                 />
   </url><url>
-    <loc>http://localhost:41699/post/nedelniy-post-1/</loc>
+    <loc>http://localhost:39193/post/nedelniy-post-1/</loc>
     <lastmod>2020-03-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:41699/ru/post/nedelniy-post-1/"
+                href="http://localhost:39193/ru/post/nedelniy-post-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:41699/post/nedelniy-post-1/"
+                href="http://localhost:39193/post/nedelniy-post-1/"
                 />
   </url><url>
-    <loc>http://localhost:41699/post/nedelniy-post-2/</loc>
+    <loc>http://localhost:39193/post/nedelniy-post-2/</loc>
     <lastmod>2020-03-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:41699/ru/post/nedelniy-post-2/"
+                href="http://localhost:39193/ru/post/nedelniy-post-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:41699/post/nedelniy-post-2/"
+                href="http://localhost:39193/post/nedelniy-post-2/"
                 />
   </url><url>
-    <loc>http://localhost:41699/post/post-na-vibor-1/</loc>
+    <loc>http://localhost:39193/post/post-na-vibor-1/</loc>
     <lastmod>2020-03-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:41699/ru/post/post-na-vibor-1/"
+                href="http://localhost:39193/ru/post/post-na-vibor-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:41699/post/post-na-vibor-1/"
+                href="http://localhost:39193/post/post-na-vibor-1/"
                 />
   </url>
 </urlset>

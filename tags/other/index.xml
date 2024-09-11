@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Other | My Site</title>
-    <link>http://localhost:41699/tags/other/</link>
-      <atom:link href="http://localhost:41699/tags/other/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:39193/tags/other/</link>
+      <atom:link href="http://localhost:39193/tags/other/index.xml" rel="self" type="application/rss+xml" />
     <description>Other</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:41699/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:39193/media/icon_hu7729264130191091259.png</url>
       <title>Other</title>
-      <link>http://localhost:41699/tags/other/</link>
+      <link>http://localhost:39193/tags/other/</link>
     </image>
     
     <item>
       <title>Majestic animals</title>
-      <link>http://localhost:41699/post/post-na-vibor-5/</link>
+      <link>http://localhost:39193/post/post-na-vibor-5/</link>
       <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:41699/post/post-na-vibor-5/</guid>
+      <guid>http://localhost:39193/post/post-na-vibor-5/</guid>
       <description>&lt;h1 id=&#34;horses-majestic-and-faithful-companions-of-man&#34;&gt;Horses. Majestic and Faithful Companions of Man&lt;/h1&gt;
 &lt;p&gt;Horses are not just animals, they have played a key role in the development of human civilization for thousands of years. These majestic creatures, possessing strength, grace and nobility, accompanied us in wars, agriculture and travel. In this post, we will talk in more detail about horses: their history, breeds, behavioral characteristics and meaning for humans.&lt;/p&gt;
 &lt;h2 id=&#34;the-history-of-horses-from-wild-herds-to-domestic-helpers&#34;&gt;The history of horses. From wild herds to domestic helpers&lt;/h2&gt;
@@ -87,9 +87,9 @@ Regular cleaning helps to avoid skin diseases, and hoof care prevents their defo
     
     <item>
       <title>Scientific programming languages</title>
-      <link>http://localhost:41699/post/post-na-vibor-4/</link>
+      <link>http://localhost:39193/post/post-na-vibor-4/</link>
       <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:41699/post/post-na-vibor-4/</guid>
+      <guid>http://localhost:39193/post/post-na-vibor-4/</guid>
       <description>&lt;h1 id=&#34;scientific-programming-languages&#34;&gt;Scientific programming languages&lt;/h1&gt;
 &lt;p&gt;Programming languages for scientific research play an important role in processing large amounts of data, modeling complex systems, and performing high-precision calculations. They help scientists and engineers solve problems that require significant computing resources and high performance.&lt;/p&gt;
 &lt;p&gt;In this post, we will look at several languages that are most often used in the scientific field.&lt;/p&gt;
@@ -149,9 +149,9 @@ It is important to remember that each of these languages has its own strengths a
     
     <item>
       <title>Markdown Report Formatting</title>
-      <link>http://localhost:41699/post/post-na-vibor-3/</link>
+      <link>http://localhost:39193/post/post-na-vibor-3/</link>
       <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:41699/post/post-na-vibor-3/</guid>
+      <guid>http://localhost:39193/post/post-na-vibor-3/</guid>
       <description>&lt;h1 id=&#34;markdown-report-formatting-simple-and-elegant&#34;&gt;Markdown Report Formatting: Simple and Elegant&lt;/h1&gt;
 &lt;p&gt;If you&amp;rsquo;re looking for a simple and effective way to format your reports, Markdown might be the perfect solution. Markdown is a lightweight markup language that allows you to quickly create structured documents without the need for complex editors.&lt;/p&gt;
 &lt;h2 id=&#34;what-is-markdown&#34;&gt;What is Markdown?&lt;/h2&gt;
@@ -200,9 +200,9 @@ It is important to remember that each of these languages has its own strengths a
     
     <item>
       <title>Markdown Markup Language</title>
-      <link>http://localhost:41699/post/post-na-vibor-2/</link>
+      <link>http://localhost:39193/post/post-na-vibor-2/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:41699/post/post-na-vibor-2/</guid>
+      <guid>http://localhost:39193/post/post-na-vibor-2/</guid>
       <description>&lt;h1 id=&#34;markdown-markup-language&#34;&gt;Markdown Markup Language&lt;/h1&gt;
 &lt;p&gt;Markdown is a simple and easy-to-use markup language that allows you to quickly and easily format text for publication on the internet. It was created in 2004 by John Gruber and Aaron Swartz to simplify the process of writing and reading text in HTML format.&lt;/p&gt;
 &lt;h2 id=&#34;advantages-of-markdown&#34;&gt;Advantages of Markdown&lt;/h2&gt;
@@ -246,9 +246,9 @@ It is important to remember that each of these languages has its own strengths a
     
     <item>
       <title>Version Control with Git.</title>
-      <link>http://localhost:41699/post/post-na-vibor-1/</link>
+      <link>http://localhost:39193/post/post-na-vibor-1/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:41699/post/post-na-vibor-1/</guid>
+      <guid>http://localhost:39193/post/post-na-vibor-1/</guid>
       <description>&lt;h1 id=&#34;version-control-with-git&#34;&gt;Version Control with Git&lt;/h1&gt;
 &lt;p&gt;Git is a distributed version control system that has become an indispensable tool for software developers. It allows you to effectively manage code changes, collaborate with other developers, and track the history of your project. Let&amp;rsquo;s explore the key concepts and commands of Git.&lt;/p&gt;
 &lt;h2 id=&#34;key-concepts-of-git&#34;&gt;Key Concepts of Git&lt;/h2&gt;
