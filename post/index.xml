@@ -5,12 +5,23 @@
     <link>https://ovezovm.github.io/post/</link>
       <atom:link href="https://ovezovm.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ovezovm.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Blog</title>
       <link>https://ovezovm.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>I came to retake</title>
+      <link>https://ovezovm.github.io/post/yanaperesdache/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://ovezovm.github.io/post/yanaperesdache/</guid>
+      <description>&lt;h2 id=&#34;i-am-on-my-last-retake&#34;&gt;I am on my last retake&lt;/h2&gt;
+&lt;p&gt;I am here for my last chance to take the exam. Today, in the auditorium it&amp;rsquo;s going to be happen . I either cor not. Today is September 11 and i am retaking the Computer and Operating Systems Architecture subject and i am writing this post now to pass it.&lt;/p&gt;
+&lt;p&gt;Ordzhonikidze Street, People&amp;rsquo;s Friendship University. Teacher: Kulyabov Dmitriy&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Refactoring Art or Necessity?</title>
