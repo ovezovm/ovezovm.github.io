@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Мой сайт</title>
+    <title>Недавние и предстоящие переговоры | Мой сайт</title>
     <link>https://ovezovm.github.io/ru/event/</link>
       <atom:link href="https://ovezovm.github.io/ru/event/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language>
+    <description>Недавние и предстоящие переговоры</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 09 Sep 2024 14:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ovezovm.github.io/media/icon_hu7729264130191091259.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
+      <title>Недавние и предстоящие переговоры</title>
       <link>https://ovezovm.github.io/ru/event/</link>
     </image>
+    
+    <item>
+      <title>Моя пересдача</title>
+      <link>https://ovezovm.github.io/ru/event/example/</link>
+      <pubDate>Mon, 09 Sep 2024 14:00:00 +0000</pubDate>
+      <guid>https://ovezovm.github.io/ru/event/example/</guid>
+      <description>&lt;p&gt;В данный, столь чудесный день пройдет переаттестация по предмету &amp;ldquo;Ахритектура компьютеров и операционных систем&amp;rdquo;, где будут присутствовать самые ленивые студенты и самые лучшие преподаватели!&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
