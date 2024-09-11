@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog | My Site</title>
-    <link>http://localhost:43799/post/</link>
-      <atom:link href="http://localhost:43799/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ovezovm.github.io/post/</link>
+      <atom:link href="https://ovezovm.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:43799/media/icon_hu7729264130191091259.png</url>
+      <url>https://ovezovm.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Blog</title>
-      <link>http://localhost:43799/post/</link>
+      <link>https://ovezovm.github.io/post/</link>
     </image>
     
     <item>
       <title>Refactoring Art or Necessity?</title>
-      <link>http://localhost:43799/post/post-na-vibor-5/</link>
+      <link>https://ovezovm.github.io/post/post-na-vibor-5/</link>
       <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:43799/post/post-na-vibor-5/</guid>
+      <guid>https://ovezovm.github.io/post/post-na-vibor-5/</guid>
       <description>&lt;h2 id=&#34;refactoring-art-or-necessity&#34;&gt;Refactoring: Art or Necessity?&lt;/h2&gt;
 &lt;p&gt;Refactoring isn&amp;rsquo;t just a useful practice; sometimes, it&amp;rsquo;s a critical necessity for the long-term health of a codebase. Recently, I had to refactor code that I had written several months ago. It was not the most pleasant encounter with my past self.&lt;/p&gt;
 &lt;p&gt;When I initially wrote the code, I thought the structure was logical and well-designed. But months later, with a fresh look, I saw numerous problems: excessive dependencies, code duplication, and functions that were too large and complicated. Sure, it worked, but the thought of maintaining and expanding that system was terrifying.&lt;/p&gt;
@@ -37,9 +37,9 @@ Without regular refactoring, a codebase starts to grow unwieldy and difficult to
     
     <item>
       <title>When comments save lifes</title>
-      <link>http://localhost:43799/post/post-na-vibor-4/</link>
+      <link>https://ovezovm.github.io/post/post-na-vibor-4/</link>
       <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:43799/post/post-na-vibor-4/</guid>
+      <guid>https://ovezovm.github.io/post/post-na-vibor-4/</guid>
       <description>&lt;h1 id=&#34;comments-everywhere&#34;&gt;Comments everywhere&lt;/h1&gt;
 &lt;p&gt;We all know how important code comments are, but let’s be honest, we don’t always follow that rule. Last week, I found myself in a situation where comments literally saved my life (or at least my sanity). I was working on an old codebase that I hadn’t touched in months. It was an old project, and as you can guess, I’d forgotten most of it.&lt;/p&gt;
 &lt;p&gt;When the time came to make changes, I realized that some sections of the code were just impossible to understand at first glance. Luckily, past me had left detailed comments. Honestly, it was the only way I could figure out what I meant back then. Thanks to those comments, I was able to quickly get up to speed and make the necessary changes. Without them, it would’ve taken me twice as long.&lt;/p&gt;
@@ -49,9 +49,9 @@ Without regular refactoring, a codebase starts to grow unwieldy and difficult to
     
     <item>
       <title>The Joy (and Frustration) of Debugging</title>
-      <link>http://localhost:43799/post/post-na-vibor-3/</link>
+      <link>https://ovezovm.github.io/post/post-na-vibor-3/</link>
       <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:43799/post/post-na-vibor-3/</guid>
+      <guid>https://ovezovm.github.io/post/post-na-vibor-3/</guid>
       <description>&lt;h1 id=&#34;the-joy-and-frustration-of-debugging&#34;&gt;The Joy (and Frustration) of Debugging&lt;/h1&gt;
 &lt;p&gt;As a programmer, debugging is an integral part of my daily routine. At first glance, it may seem like the least exciting aspect of software development — after all, who enjoys fixing errors? But in reality, debugging is like solving a complex puzzle, and there’s a strange satisfaction that comes with tracking down an elusive bug.&lt;/p&gt;
 &lt;p&gt;Take last week, for instance. I was working on a seemingly straightforward feature, a small addition to an existing module. The code looked clean, and I ran all my tests before deploying it. Everything seemed fine — until it wasn’t. The system crashed unexpectedly under specific conditions, and my initial reaction was disbelief. “There’s no way that’s my code!” I thought. But, spoiler alert: it was.&lt;/p&gt;
@@ -64,9 +64,9 @@ Without regular refactoring, a codebase starts to grow unwieldy and difficult to
     
     <item>
       <title>Working with Bibliography  Tips and Best Practices</title>
-      <link>http://localhost:43799/post/post-na-vibor-2/</link>
+      <link>https://ovezovm.github.io/post/post-na-vibor-2/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:43799/post/post-na-vibor-2/</guid>
+      <guid>https://ovezovm.github.io/post/post-na-vibor-2/</guid>
       <description>&lt;h1 id=&#34;working-with-bibliography--tips-and-best-practices&#34;&gt;Working with Bibliography : Tips and Best Practices&lt;/h1&gt;
 &lt;p&gt;Whether you&amp;rsquo;re writing a research paper, thesis, or a simple academic article, managing your bibliography is a crucial part of the process. A well-structured bibliography not only provides credibility to your work but also ensures that readers can trace your sources. Here are a few tips and best practices to make working with bibliographies easier and more efficient.&lt;/p&gt;
 &lt;ol&gt;
@@ -97,9 +97,9 @@ Always double-check the accuracy of your citations and bibliography. Small error
     
     <item>
       <title>Last week&#39;s post (August 24-31)</title>
-      <link>http://localhost:43799/post/nedelniy-post-5/</link>
+      <link>https://ovezovm.github.io/post/nedelniy-post-5/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:43799/post/nedelniy-post-5/</guid>
+      <guid>https://ovezovm.github.io/post/nedelniy-post-5/</guid>
       <description>&lt;h2 id=&#34;celebrating-milestones&#34;&gt;Celebrating Milestones&lt;/h2&gt;
 &lt;p&gt;This week ended on a high note! After weeks of hard work, we finally hit a major milestone. The system passed load testing with flying colors, and the performance is now well within acceptable limits. My team and I had a small celebration at the end of the week.&lt;/p&gt;
 &lt;p&gt;Looking back, I feel a great sense of accomplishment. From struggling with Docker and bugs to optimizing performance, this project has pushed me to improve my skills in many areas. Now we’re moving into the next phase — deploying the system to production. There’s still a lot to do, but I’m more confident than ever.&lt;/p&gt;
@@ -108,9 +108,9 @@ Always double-check the accuracy of your citations and bibliography. Small error
     
     <item>
       <title>Last week&#39;s post (June 15-22)</title>
-      <link>http://localhost:43799/post/nedelniy-post-3/</link>
+      <link>https://ovezovm.github.io/post/nedelniy-post-3/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:43799/post/nedelniy-post-3/</guid>
+      <guid>https://ovezovm.github.io/post/nedelniy-post-3/</guid>
       <description>&lt;h2 id=&#34;refactoring-frenzy&#34;&gt;Refactoring Frenzy&lt;/h2&gt;
 &lt;p&gt;After resolving most of the bugs last week, I realized the codebase had become quite messy. So this week was dedicated to refactoring. I reorganized several modules, cleaned up redundant code, and implemented a more consistent logging system.&lt;/p&gt;
 &lt;p&gt;It was tedious work, but very satisfying. Seeing the code become more modular and easier to maintain is always rewarding. I also wrote additional unit tests to ensure future changes won’t break anything unexpectedly. Now the code is in much better shape, and I’m confident it’ll be easier to scale and extend.&lt;/p&gt;
@@ -119,9 +119,9 @@ Always double-check the accuracy of your citations and bibliography. Small error
     
     <item>
       <title>Last week&#39;s post (June 23-30)</title>
-      <link>http://localhost:43799/post/nedelniy-post-4/</link>
+      <link>https://ovezovm.github.io/post/nedelniy-post-4/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:43799/post/nedelniy-post-4/</guid>
+      <guid>https://ovezovm.github.io/post/nedelniy-post-4/</guid>
       <description>&lt;h2 id=&#34;unexpected-challenges&#34;&gt;Unexpected Challenges&lt;/h2&gt;
 &lt;p&gt;This week threw me a curveball. I encountered a serious performance issue during load testing. The system was much slower than expected under heavy traffic. After analyzing the logs, I found that one of the services was causing bottlenecks due to inefficient database queries.&lt;/p&gt;
 &lt;p&gt;I spent days optimizing those queries, indexing database tables, and implementing caching mechanisms. By the end of the week, the performance improved significantly, but I still feel there’s room for further optimization. It’s been stressful, but I’ve learned a lot about performance tuning.&lt;/p&gt;
@@ -130,9 +130,9 @@ Always double-check the accuracy of your citations and bibliography. Small error
     
     <item>
       <title>Last week&#39;s post (March 11-17)</title>
-      <link>http://localhost:43799/post/nedelniy-post-1/</link>
+      <link>https://ovezovm.github.io/post/nedelniy-post-1/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:43799/post/nedelniy-post-1/</guid>
+      <guid>https://ovezovm.github.io/post/nedelniy-post-1/</guid>
       <description>&lt;h2 id=&#34;the-social-aspect&#34;&gt;The social aspect&lt;/h2&gt;
 &lt;p&gt;his week started with excitement. I was assigned a new project at work, which involves building a microservice architecture using Python and Docker.&lt;/p&gt;
 &lt;h2 id=&#34;favorite-activity&#34;&gt;Favorite activity&lt;/h2&gt;
@@ -145,9 +145,9 @@ Always double-check the accuracy of your citations and bibliography. Small error
     
     <item>
       <title>Last week&#39;s post (May 22-28)</title>
-      <link>http://localhost:43799/post/nedelniy-post-2/</link>
+      <link>https://ovezovm.github.io/post/nedelniy-post-2/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:43799/post/nedelniy-post-2/</guid>
+      <guid>https://ovezovm.github.io/post/nedelniy-post-2/</guid>
       <description>&lt;h2 id=&#34;another-exhibition&#34;&gt;Another exhibition&lt;/h2&gt;
 &lt;p&gt;This week turned out to be intense. After setting up the initial prototype last week, I started integrating the different services. And guess what? Bugs everywhere! The communication between services wasn’t as smooth as I had anticipated.&lt;/p&gt;
 &lt;h2 id=&#34;study&#34;&gt;Study&lt;/h2&gt;
@@ -159,9 +159,9 @@ Always double-check the accuracy of your citations and bibliography. Small error
     
     <item>
       <title>Version Control with Git.</title>
-      <link>http://localhost:43799/post/post-na-vibor-1/</link>
+      <link>https://ovezovm.github.io/post/post-na-vibor-1/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:43799/post/post-na-vibor-1/</guid>
+      <guid>https://ovezovm.github.io/post/post-na-vibor-1/</guid>
       <description>&lt;h1 id=&#34;version-control-with-git&#34;&gt;Version Control with Git&lt;/h1&gt;
 &lt;p&gt;Git is a distributed version control system that has become an indispensable tool for software developers. It allows you to effectively manage code changes, collaborate with other developers, and track the history of your project. Let&amp;rsquo;s explore the key concepts and commands of Git.&lt;/p&gt;
 &lt;h2 id=&#34;key-concepts-of-git&#34;&gt;Key Concepts of Git&lt;/h2&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | My Site</title>
-    <link>http://localhost:43799/publication/</link>
-      <atom:link href="http://localhost:43799/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ovezovm.github.io/publication/</link>
+      <atom:link href="https://ovezovm.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2030 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:43799/media/icon_hu7729264130191091259.png</url>
+      <url>https://ovezovm.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Publications</title>
-      <link>http://localhost:43799/publication/</link>
+      <link>https://ovezovm.github.io/publication/</link>
     </image>
     
     <item>
       <title>Differences in the thinking of programmers writing in different programming languages</title>
-      <link>http://localhost:43799/publication/conference-paper/</link>
+      <link>https://ovezovm.github.io/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2030 00:00:00 +0000</pubDate>
-      <guid>http://localhost:43799/publication/conference-paper/</guid>
+      <guid>https://ovezovm.github.io/publication/conference-paper/</guid>
       <description>&lt;h2 id=&#34;research-on-the-topic-the-influence-of-horse-mane-color-on-their-behavior-in-various-social-groups&#34;&gt;Research on the topic: &amp;ldquo;The influence of horse mane color on their behavior in various social groups&amp;rdquo;&lt;/h2&gt;
 &lt;p&gt;My name is Mergen Ovezov and I would like to talk about the topic of choosing a programming language and how this choice can affect you.&lt;/p&gt;
 &lt;p&gt;Programming is a discipline that requires precision, logical thinking and attention to detail. Different programming languages offer unique paradigms and approaches to problem solving, which can influence programmers&amp;rsquo; work styles and skills. This study examines the differences in the profiles, approaches, and behaviors of programmers working with different programming languages such as Python, Java, JavaScript, and C++.&lt;/p&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Публикации | Мой сайт</title>
-    <link>http://localhost:43799/ru/publication/</link>
-      <atom:link href="http://localhost:43799/ru/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ovezovm.github.io/ru/publication/</link>
+      <atom:link href="https://ovezovm.github.io/ru/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Публикации</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 01 Jul 2030 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:43799/media/icon_hu7729264130191091259.png</url>
+      <url>https://ovezovm.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Публикации</title>
-      <link>http://localhost:43799/ru/publication/</link>
+      <link>https://ovezovm.github.io/ru/publication/</link>
     </image>
     
     <item>
       <title>Различия в мышлении программистов пишущих на разных языках программирования</title>
-      <link>http://localhost:43799/ru/publication/conference-paper/</link>
+      <link>https://ovezovm.github.io/ru/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2030 00:00:00 +0000</pubDate>
-      <guid>http://localhost:43799/ru/publication/conference-paper/</guid>
+      <guid>https://ovezovm.github.io/ru/publication/conference-paper/</guid>
       <description>&lt;h2 id=&#34;исследование-на-тему-различия-в-программистах-пишущих-на-разных-языках-программирования&#34;&gt;Исследование на тему: «Различия в программистах, пишущих на разных языках программирования»&lt;/h2&gt;
 &lt;p&gt;Меня зовут Мерген Овезов и я бы хотел поговорить о теме выбоа языка программирования и как это выбор может повлиять на вас.&lt;/p&gt;
 &lt;p&gt;Программирование — это дисциплина, требующая точности, логического мышления и внимательности к деталям. Разные языки программирования предлагают уникальные парадигмы и подходы к решению задач, что может влиять на стиль работы программистов и их навыки. Данное исследование рассматривает различия в профилях, подходах и поведении программистов, работающих с различными языками программирования, такими как Python, Java, JavaScript и C++.&lt;/p&gt;

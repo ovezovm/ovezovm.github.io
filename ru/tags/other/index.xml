@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Other | Мой сайт</title>
-    <link>http://localhost:43799/ru/tags/other/</link>
-      <atom:link href="http://localhost:43799/ru/tags/other/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ovezovm.github.io/ru/tags/other/</link>
+      <atom:link href="https://ovezovm.github.io/ru/tags/other/index.xml" rel="self" type="application/rss+xml" />
     <description>Other</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 05 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:43799/media/icon_hu7729264130191091259.png</url>
+      <url>https://ovezovm.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Other</title>
-      <link>http://localhost:43799/ru/tags/other/</link>
+      <link>https://ovezovm.github.io/ru/tags/other/</link>
     </image>
     
     <item>
       <title>Работа с библиографией</title>
-      <link>http://localhost:43799/ru/post/post-na-vibor-2/</link>
+      <link>https://ovezovm.github.io/ru/post/post-na-vibor-2/</link>
       <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:43799/ru/post/post-na-vibor-2/</guid>
+      <guid>https://ovezovm.github.io/ru/post/post-na-vibor-2/</guid>
       <description>&lt;h1 id=&#34;работа-с-библиографией-советы-и-лучшие-практики&#34;&gt;Работа с библиографией: советы и лучшие практики&lt;/h1&gt;
 &lt;p&gt;Будь то написание научной работы, диплома или простой академической статьи, управление библиографией — это важная часть процесса. Хорошо структурированная библиография не только добавляет достоверность вашей работе, но и позволяет читателям отслеживать ваши источники. Вот несколько советов и лучших практик, которые помогут упростить работу с библиографией&lt;/p&gt;
 &lt;ol&gt;
@@ -47,9 +47,9 @@
     
     <item>
       <title>Комментарии и их важность</title>
-      <link>http://localhost:43799/ru/post/post-na-vibor-3/</link>
+      <link>https://ovezovm.github.io/ru/post/post-na-vibor-3/</link>
       <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:43799/ru/post/post-na-vibor-3/</guid>
+      <guid>https://ovezovm.github.io/ru/post/post-na-vibor-3/</guid>
       <description>&lt;h1 id=&#34;когда-комментарии-спасают-жизнь&#34;&gt;Когда комментарии спасают жизнь&lt;/h1&gt;
 &lt;p&gt;Мы все знаем о важности комментариев в коде, но если честно, не всегда соблюдаем это правило. На прошлой неделе я столкнулся с такой ситуацией, когда комментарии буквально спасли мне жизнь (ну или, по крайней мере, нервы). Я работал над кодовой базой, которую я не трогал уже несколько месяцев. Это был старый проект, и, как вы могли догадаться, многое я уже успел забыть.&lt;/p&gt;
 &lt;p&gt;Когда пришло время вносить изменения, я осознал, что некоторые участки кода просто невозможно понять с первого взгляда. Хорошо, что я оставил себе детальные комментарии в прошлом. Честно говоря, это был единственный способ понять, что я тогда имел в виду. Благодаря этим комментариям я быстро разобрался в логике и внес нужные правки. Без них, думаю, пришлось бы потратить вдвое больше времени.&lt;/p&gt;
@@ -59,9 +59,9 @@
     
     <item>
       <title>Рефакторинг это искусство или необходимость?</title>
-      <link>http://localhost:43799/ru/post/post-na-vibor-5/</link>
+      <link>https://ovezovm.github.io/ru/post/post-na-vibor-5/</link>
       <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:43799/ru/post/post-na-vibor-5/</guid>
+      <guid>https://ovezovm.github.io/ru/post/post-na-vibor-5/</guid>
       <description>&lt;h1 id=&#34;рефакторинг-искусство-или-необходимость&#34;&gt;Рефакторинг: искусство или необходимость?&lt;/h1&gt;
 &lt;p&gt;Рефакторинг — это не просто полезная практика, а иногда и настоящая необходимость для долгосрочного здоровья кодовой базы. Недавно мне пришлось заняться рефакторингом кода, который я сам написал несколько месяцев назад. И это была не самая приятная встреча с моим прошлым «я».&lt;/p&gt;
 &lt;p&gt;Когда я впервые писал этот код, мне казалось, что структура была довольно логичной и хорошо спроектированной. Но спустя несколько месяцев, взглянув на него свежим взглядом, я увидел множество проблем: избыточные зависимости, дублирование кода и функции, которые были слишком большими и сложными. Да, оно работало, но перспектива поддержки и расширения такой системы пугала.&lt;/p&gt;
@@ -82,9 +82,9 @@
     
     <item>
       <title>Суть отладки</title>
-      <link>http://localhost:43799/ru/post/post-na-vibor-4/</link>
+      <link>https://ovezovm.github.io/ru/post/post-na-vibor-4/</link>
       <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:43799/ru/post/post-na-vibor-4/</guid>
+      <guid>https://ovezovm.github.io/ru/post/post-na-vibor-4/</guid>
       <description>&lt;h1 id=&#34;когда-время-отладки-больше-чем-время-написания-кода&#34;&gt;Когда время отладки больше, чем время написания кода&lt;/h1&gt;
 &lt;p&gt;На днях я задумался, как часто время, потраченное на отладку, намного превышает время, затраченное на написание самого кода. У меня был небольшой таск: добавить новую функцию в проект. Казалось бы, дело на пару часов. Я написал основную логику буквально за полчаса, проверил её — вроде всё работает. Но потом начались сюрпризы.&lt;/p&gt;
 &lt;p&gt;После запуска интеграционных тестов и ручной проверки система стала выдавать странные ошибки в совершенно неожиданных местах. Я погрузился в дебаг, пытаясь понять, как моя простая функция могла сломать другую часть приложения. Как оказалось, небольшая деталь в новой функции вызывала конфликт в одном из вспомогательных модулей.&lt;/p&gt;
@@ -94,9 +94,9 @@
     
     <item>
       <title>Управление версиями Git.</title>
-      <link>http://localhost:43799/ru/post/post-na-vibor-1/</link>
+      <link>https://ovezovm.github.io/ru/post/post-na-vibor-1/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:43799/ru/post/post-na-vibor-1/</guid>
+      <guid>https://ovezovm.github.io/ru/post/post-na-vibor-1/</guid>
       <description>&lt;h1 id=&#34;управление-версиями-с-помощью-git&#34;&gt;Управление версиями с помощью Git&lt;/h1&gt;
 &lt;p&gt;Git - это распределенная система контроля версий, которая стала незаменимым инструментом для разработчиков программного обеспечения. Она позволяет эффективно управлять изменениями в коде, сотрудничать с другими разработчиками и отслеживать историю проекта. Давайте рассмотрим основные концепции и команды Git.&lt;/p&gt;
 &lt;h2 id=&#34;основные-концепции-git&#34;&gt;Основные концепции Git&lt;/h2&gt;

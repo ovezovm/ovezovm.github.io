@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Horses | My Site</title>
-    <link>http://localhost:43799/tags/horses/</link>
-      <atom:link href="http://localhost:43799/tags/horses/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ovezovm.github.io/tags/horses/</link>
+      <atom:link href="https://ovezovm.github.io/tags/horses/index.xml" rel="self" type="application/rss+xml" />
     <description>Horses</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:43799/media/icon_hu7729264130191091259.png</url>
+      <url>https://ovezovm.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Horses</title>
-      <link>http://localhost:43799/tags/horses/</link>
+      <link>https://ovezovm.github.io/tags/horses/</link>
     </image>
     
     <item>
       <title>Horses</title>
-      <link>http://localhost:43799/project/pandas/</link>
+      <link>https://ovezovm.github.io/project/pandas/</link>
       <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:43799/project/pandas/</guid>
+      <guid>https://ovezovm.github.io/project/pandas/</guid>
       <description>&lt;p&gt;A research paper about wonderful animals - horses!&lt;/p&gt;</description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Other | My Site</title>
-    <link>http://localhost:43799/tags/other/</link>
-      <atom:link href="http://localhost:43799/tags/other/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ovezovm.github.io/tags/other/</link>
+      <atom:link href="https://ovezovm.github.io/tags/other/index.xml" rel="self" type="application/rss+xml" />
     <description>Other</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:43799/media/icon_hu7729264130191091259.png</url>
+      <url>https://ovezovm.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Other</title>
-      <link>http://localhost:43799/tags/other/</link>
+      <link>https://ovezovm.github.io/tags/other/</link>
     </image>
     
     <item>
       <title>Refactoring Art or Necessity?</title>
-      <link>http://localhost:43799/post/post-na-vibor-5/</link>
+      <link>https://ovezovm.github.io/post/post-na-vibor-5/</link>
       <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:43799/post/post-na-vibor-5/</guid>
+      <guid>https://ovezovm.github.io/post/post-na-vibor-5/</guid>
       <description>&lt;h2 id=&#34;refactoring-art-or-necessity&#34;&gt;Refactoring: Art or Necessity?&lt;/h2&gt;
 &lt;p&gt;Refactoring isn&amp;rsquo;t just a useful practice; sometimes, it&amp;rsquo;s a critical necessity for the long-term health of a codebase. Recently, I had to refactor code that I had written several months ago. It was not the most pleasant encounter with my past self.&lt;/p&gt;
 &lt;p&gt;When I initially wrote the code, I thought the structure was logical and well-designed. But months later, with a fresh look, I saw numerous problems: excessive dependencies, code duplication, and functions that were too large and complicated. Sure, it worked, but the thought of maintaining and expanding that system was terrifying.&lt;/p&gt;
@@ -37,9 +37,9 @@ Without regular refactoring, a codebase starts to grow unwieldy and difficult to
     
     <item>
       <title>When comments save lifes</title>
-      <link>http://localhost:43799/post/post-na-vibor-4/</link>
+      <link>https://ovezovm.github.io/post/post-na-vibor-4/</link>
       <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:43799/post/post-na-vibor-4/</guid>
+      <guid>https://ovezovm.github.io/post/post-na-vibor-4/</guid>
       <description>&lt;h1 id=&#34;comments-everywhere&#34;&gt;Comments everywhere&lt;/h1&gt;
 &lt;p&gt;We all know how important code comments are, but let’s be honest, we don’t always follow that rule. Last week, I found myself in a situation where comments literally saved my life (or at least my sanity). I was working on an old codebase that I hadn’t touched in months. It was an old project, and as you can guess, I’d forgotten most of it.&lt;/p&gt;
 &lt;p&gt;When the time came to make changes, I realized that some sections of the code were just impossible to understand at first glance. Luckily, past me had left detailed comments. Honestly, it was the only way I could figure out what I meant back then. Thanks to those comments, I was able to quickly get up to speed and make the necessary changes. Without them, it would’ve taken me twice as long.&lt;/p&gt;
@@ -49,9 +49,9 @@ Without regular refactoring, a codebase starts to grow unwieldy and difficult to
     
     <item>
       <title>The Joy (and Frustration) of Debugging</title>
-      <link>http://localhost:43799/post/post-na-vibor-3/</link>
+      <link>https://ovezovm.github.io/post/post-na-vibor-3/</link>
       <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:43799/post/post-na-vibor-3/</guid>
+      <guid>https://ovezovm.github.io/post/post-na-vibor-3/</guid>
       <description>&lt;h1 id=&#34;the-joy-and-frustration-of-debugging&#34;&gt;The Joy (and Frustration) of Debugging&lt;/h1&gt;
 &lt;p&gt;As a programmer, debugging is an integral part of my daily routine. At first glance, it may seem like the least exciting aspect of software development — after all, who enjoys fixing errors? But in reality, debugging is like solving a complex puzzle, and there’s a strange satisfaction that comes with tracking down an elusive bug.&lt;/p&gt;
 &lt;p&gt;Take last week, for instance. I was working on a seemingly straightforward feature, a small addition to an existing module. The code looked clean, and I ran all my tests before deploying it. Everything seemed fine — until it wasn’t. The system crashed unexpectedly under specific conditions, and my initial reaction was disbelief. “There’s no way that’s my code!” I thought. But, spoiler alert: it was.&lt;/p&gt;
@@ -64,9 +64,9 @@ Without regular refactoring, a codebase starts to grow unwieldy and difficult to
     
     <item>
       <title>Working with Bibliography  Tips and Best Practices</title>
-      <link>http://localhost:43799/post/post-na-vibor-2/</link>
+      <link>https://ovezovm.github.io/post/post-na-vibor-2/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:43799/post/post-na-vibor-2/</guid>
+      <guid>https://ovezovm.github.io/post/post-na-vibor-2/</guid>
       <description>&lt;h1 id=&#34;working-with-bibliography--tips-and-best-practices&#34;&gt;Working with Bibliography : Tips and Best Practices&lt;/h1&gt;
 &lt;p&gt;Whether you&amp;rsquo;re writing a research paper, thesis, or a simple academic article, managing your bibliography is a crucial part of the process. A well-structured bibliography not only provides credibility to your work but also ensures that readers can trace your sources. Here are a few tips and best practices to make working with bibliographies easier and more efficient.&lt;/p&gt;
 &lt;ol&gt;
@@ -97,9 +97,9 @@ Always double-check the accuracy of your citations and bibliography. Small error
     
     <item>
       <title>Version Control with Git.</title>
-      <link>http://localhost:43799/post/post-na-vibor-1/</link>
+      <link>https://ovezovm.github.io/post/post-na-vibor-1/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:43799/post/post-na-vibor-1/</guid>
+      <guid>https://ovezovm.github.io/post/post-na-vibor-1/</guid>
       <description>&lt;h1 id=&#34;version-control-with-git&#34;&gt;Version Control with Git&lt;/h1&gt;
 &lt;p&gt;Git is a distributed version control system that has become an indispensable tool for software developers. It allows you to effectively manage code changes, collaborate with other developers, and track the history of your project. Let&amp;rsquo;s explore the key concepts and commands of Git.&lt;/p&gt;
 &lt;h2 id=&#34;key-concepts-of-git&#34;&gt;Key Concepts of Git&lt;/h2&gt;
