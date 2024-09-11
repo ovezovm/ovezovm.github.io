@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Large Language Models | My Site</title>
+    <link>http://localhost:43799/tags/large-language-models/</link>
+      <atom:link href="http://localhost:43799/tags/large-language-models/index.xml" rel="self" type="application/rss+xml" />
+    <description>Large Language Models</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2030 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:43799/media/icon_hu7729264130191091259.png</url>
+      <title>Large Language Models</title>
+      <link>http://localhost:43799/tags/large-language-models/</link>
+    </image>
+    
+    <item>
+      <title>Differences in the thinking of programmers writing in different programming languages</title>
+      <link>http://localhost:43799/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2030 00:00:00 +0000</pubDate>
+      <guid>http://localhost:43799/publication/conference-paper/</guid>
+      <description>&lt;h2 id=&#34;research-on-the-topic-the-influence-of-horse-mane-color-on-their-behavior-in-various-social-groups&#34;&gt;Research on the topic: &amp;ldquo;The influence of horse mane color on their behavior in various social groups&amp;rdquo;&lt;/h2&gt;
+&lt;p&gt;My name is Mergen Ovezov and I would like to talk about the topic of choosing a programming language and how this choice can affect you.&lt;/p&gt;
+&lt;p&gt;Programming is a discipline that requires precision, logical thinking and attention to detail. Different programming languages offer unique paradigms and approaches to problem solving, which can influence programmers&amp;rsquo; work styles and skills. This study examines the differences in the profiles, approaches, and behaviors of programmers working with different programming languages such as Python, Java, JavaScript, and C++.&lt;/p&gt;
+&lt;p&gt;The objectives of the study are.
+To investigate how programming language influences programmers&amp;rsquo; thinking.
+To identify the main differences in problem solving approaches among programmers of different languages.
+To identify the characteristics and skills of programmers working in certain programming languages.
+Methodology
+200 programmers who use one of four programming languages in their daily work: Python, Java, JavaScript and C++ were interviewed for the research. During the survey the participants answered questions about their motivation, preferred methods of solving tasks and attitude to abstraction and concreteness in programming.
+Results of the study&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Python programmers
+Python is characterized as a language with high readability, simple syntax, and minimalism. Python programmers are more likely to have a penchant for rapid prototyping and high-level problem solving. Python programmers prefer off-the-shelf libraries and tools, allowing them to focus on solving business problems rather than the low-level aspects of programming.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Key features:&lt;/p&gt;
+&lt;p&gt;Rapid development.
+Emphasis on code readability.
+Use of high-level libraries.
+2. Java programmers
+Java is a strictly typed object-oriented language with an emphasis on structure and stability. Java programmers tend to focus more on application architecture, code reliability, and scalability. The language requires a more formal approach to program writing and code maintenance.&lt;/p&gt;
+&lt;p&gt;Key features:&lt;/p&gt;
+&lt;p&gt;Strict adherence to standards.
+High level of structuring.
+Emphasis on scalability and application security.
+3. JavaScript programmers
+JavaScript is the primary language for web development, making it a key tool for creating user interfaces and dynamic web applications. JavaScript programmers are highly flexible in their approach to problem solving, as the language allows for both object-oriented and functional programming. JavaScript developers tend to be creative and change code quickly, adjusting to the needs of the project.&lt;/p&gt;
+&lt;p&gt;Key characteristics:&lt;/p&gt;
+&lt;p&gt;Flexibility in programming style.
+Rapid prototyping.
+Strong emphasis on user experience.
+4. C++ programmers
+C++ is a powerful systems programming language that combines object-oriented and procedural paradigms. C++ programmers usually have a deep knowledge of hardware and memory management. They focus on code performance, optimization, and resource utilization control.&lt;/p&gt;
+&lt;p&gt;Key features:
+Focus on performance and optimization.
+Memory and resource management.
+Deep understanding of the low-level aspects of system performance.
+Discussion
+Each programming language shapes the unique set of skills and habits of programmers, which in turn affects their approach to problem solving. For example, Python programmers prefer abstract problems and are willing to use off-the-shelf solutions, whereas C++ programmers strive for complete optimization and control over every aspect of the program. Java programmers create more structured solutions focused on long-term support and scalability, while JavaScript developers focus on creativity and speed of change implementation.
+Conclusion
+The programming language has a significant impact on how a programmer solves problems and what approaches and paradigms they use. Differences in programmers&amp;rsquo; thinking and working style can be related to the syntactic features of the language, its domain of application, and the level of abstraction required. Understanding these differences is important for team formation and proper task allocation in software development.&lt;/p&gt;
+&lt;p&gt;Literature
+Dijkstra, E. W. The Humble Programmer. Communications of the ACM, 1972.
+Raymond, E. S. The Cathedral and the Bazaar. O&amp;rsquo;Reilly Media, 1999.
+Brooks, F. P. The Mythical Man-Month: Essays on Software Engineering. Addison-Wesley, 1995.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

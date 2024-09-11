@@ -2,322 +2,166 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog | My Site</title>
-    <link>http://localhost:39193/post/</link>
-      <atom:link href="http://localhost:39193/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:43799/post/</link>
+      <atom:link href="http://localhost:43799/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:39193/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:43799/media/icon_hu7729264130191091259.png</url>
       <title>Blog</title>
-      <link>http://localhost:39193/post/</link>
+      <link>http://localhost:43799/post/</link>
     </image>
     
     <item>
-      <title>Majestic animals</title>
-      <link>http://localhost:39193/post/post-na-vibor-5/</link>
+      <title>Refactoring Art or Necessity?</title>
+      <link>http://localhost:43799/post/post-na-vibor-5/</link>
       <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:39193/post/post-na-vibor-5/</guid>
-      <description>&lt;h1 id=&#34;horses-majestic-and-faithful-companions-of-man&#34;&gt;Horses. Majestic and Faithful Companions of Man&lt;/h1&gt;
-&lt;p&gt;Horses are not just animals, they have played a key role in the development of human civilization for thousands of years. These majestic creatures, possessing strength, grace and nobility, accompanied us in wars, agriculture and travel. In this post, we will talk in more detail about horses: their history, breeds, behavioral characteristics and meaning for humans.&lt;/p&gt;
-&lt;h2 id=&#34;the-history-of-horses-from-wild-herds-to-domestic-helpers&#34;&gt;The history of horses. From wild herds to domestic helpers&lt;/h2&gt;
-&lt;p&gt;Domestic horses (Equus ferus caballus) are descended from wild ancestors such as Przewalski&amp;rsquo;s wild horse, the only species of wild horses that has survived to the present day. The domestication of horses began about 4-5 thousand years ago on the steppes of Eurasia. Since then, horses have become the most important companions of man.&lt;/p&gt;
-&lt;p&gt;In ancient times, they were used for transportation, plowing and transporting goods. Later, they became indispensable in military campaigns: light and fast, they allowed riders to move with incredible speed, providing an advantage on the battlefield.&lt;/p&gt;
-&lt;h3 id=&#34;horses-in-culture-and-mythology&#34;&gt;Horses in culture and mythology&lt;/h3&gt;
-&lt;p&gt;In various cultures, the horse symbolized strength, freedom and courage. For example:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;In ancient Greece, horses were companions of the gods. The legendary horses of Poseidon and Pegasus are examples of divine beings with qualities attributed to horses.&lt;/li&gt;
-&lt;li&gt;In Norse mythology, Sleipnir, Odin&amp;rsquo;s eight-legged horse, was a symbol of speed and power.&lt;/li&gt;
-&lt;li&gt;In ancient Indian texts, the horse Ashwa was revered as a sacred animal associated with the sun and vital energy.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;horse-breeds-the-diversity-of-beauty-and-power&#34;&gt;Horse breeds. The diversity of beauty and power&lt;/h2&gt;
-&lt;p&gt;There are more than 300 horse breeds, and each of them has its own characteristics that make them unique. Let&amp;rsquo;s look at some of the most famous and popular breeds.&lt;/p&gt;
-&lt;p&gt;###1. Arabian Horse
-One of the most ancient and recognizable breeds, the Arabian horse is distinguished by its elegance, endurance and proud appearance. She is easily recognized by her graceful head and high tail.&lt;/p&gt;
-&lt;p&gt;Features:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Excellent endurance and speed.&lt;/li&gt;
-&lt;li&gt;Often used in equestrian and horse racing competitions.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;###2. Thoroughbred English horse
-This breed, bred for racing, is known for its incredible speed and agility. Thoroughbred horses are real athletes participating in the largest horse races in the world.&lt;/p&gt;
-&lt;p&gt;Features:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Maximum speed.&lt;/li&gt;
-&lt;li&gt;They often participate in endurance sports and horse racing.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;###3. The Frisian horse
-Frisian horses are famous for their black color and long mane. It is one of the oldest breeds in Europe, distinguished by both power and elegance.&lt;/p&gt;
-&lt;p&gt;Features:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;High endurance.&lt;/li&gt;
-&lt;li&gt;Used in sledges and parades, as well as in shows and movies.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;physical-characteristics-and-behavior&#34;&gt;Physical characteristics and behavior&lt;/h2&gt;
-&lt;p&gt;Horses are gregarious, social and very intelligent animals. In nature, they live in groups with a certain hierarchy, where the older stallion and the leading mare play the main roles.&lt;/p&gt;
-&lt;h3 id=&#34;vision&#34;&gt;Vision&lt;/h3&gt;
-&lt;p&gt;Horses have widely spaced eyes, which allows them to see almost 360 degrees around. However, they have a &amp;ldquo;blind spot&amp;rdquo; in front of their nose, which they compensate for with a movable neck.&lt;/p&gt;
-&lt;h3 id=&#34;communication&#34;&gt;Communication&lt;/h3&gt;
-&lt;p&gt;Horses communicate with both sounds and gestures. For example, they can neigh, knock with a hoof, and actively use facial expressions of ears and eyes to express emotions.&lt;/p&gt;
-&lt;h2 id=&#34;the-role-of-horses-in-the-modern-world&#34;&gt;The role of horses in the modern world&lt;/h2&gt;
-&lt;p&gt;Despite the development of technology, horses continue to play an important role in human life. Here are a few areas where horses remain indispensable:&lt;/p&gt;
-&lt;p&gt;###1. Sports and leisure
-Equestrian sports are one of the most popular forms of human–horse interaction. Sports include:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Horse racing is one of the oldest sports competitions.&lt;/li&gt;
-&lt;li&gt;Dressage is the art of controlling a horse using precise commands.&lt;/li&gt;
-&lt;li&gt;Competition – jumping over obstacles.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;2-therapy-and-rehabilitation&#34;&gt;2. Therapy and rehabilitation&lt;/h3&gt;
-&lt;p&gt;Hippotherapy (treatment with horses) It is actively used for the rehabilitation of people with physical and psychological problems. Horse movements have a positive effect on human muscles, and an emotional connection with an animal helps to overcome fears and stress.
-###3. Work and Agriculture
-In some parts of the world, horses continue to be used for transporting goods, plowing land and other agricultural work. This is especially true in remote mountainous or rural areas, where technology is not always available.&lt;/p&gt;
-&lt;h2 id=&#34;horse-care&#34;&gt;Horse care&lt;/h2&gt;
-&lt;p&gt;Horses require daily care, and it&amp;rsquo;s not just about feeding or cleaning. Here are a few aspects that are important for the health and happiness of a horse:&lt;/p&gt;
-&lt;h3 id=&#34;1-proper-nutrition&#34;&gt;1. Proper nutrition&lt;/h3&gt;
-&lt;p&gt;Horses are herbivores and their diet mainly consists of hay and grass. Access to clean water is also important.&lt;/p&gt;
-&lt;p&gt;###2. Hoof cleaning and Health
-Regular cleaning helps to avoid skin diseases, and hoof care prevents their deformities and infections.&lt;/p&gt;
-&lt;h3 id=&#34;3-vaccination-and-veterinary-care&#34;&gt;3. Vaccination and veterinary care&lt;/h3&gt;
-&lt;p&gt;Horses need regular vaccinations and checkups by a veterinarian to prevent diseases and monitor their overall health.&lt;/p&gt;
-&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
-&lt;p&gt;Horses are amazing creatures whose role in human history and culture is enormous. They represent strength, freedom and devotion. Even in today&amp;rsquo;s world full of technology, the connection between man and horse remains unique and invaluable. Horses continue to serve people in sports, work and even in therapy, helping us not only physically but also spiritually.&lt;/p&gt;
-&lt;p&gt;It is thanks to these noble animals that we continue to feel their importance, appreciate their beauty and wisdom.&lt;/p&gt;
+      <guid>http://localhost:43799/post/post-na-vibor-5/</guid>
+      <description>&lt;h2 id=&#34;refactoring-art-or-necessity&#34;&gt;Refactoring: Art or Necessity?&lt;/h2&gt;
+&lt;p&gt;Refactoring isn&amp;rsquo;t just a useful practice; sometimes, it&amp;rsquo;s a critical necessity for the long-term health of a codebase. Recently, I had to refactor code that I had written several months ago. It was not the most pleasant encounter with my past self.&lt;/p&gt;
+&lt;p&gt;When I initially wrote the code, I thought the structure was logical and well-designed. But months later, with a fresh look, I saw numerous problems: excessive dependencies, code duplication, and functions that were too large and complicated. Sure, it worked, but the thought of maintaining and expanding that system was terrifying.&lt;/p&gt;
+&lt;p&gt;Problems I Encountered
+Excessive dependencies: Components that shouldn&amp;rsquo;t have been linked ended up being tightly coupled, making the code cumbersome and difficult to modify.&lt;/p&gt;
+&lt;p&gt;Code duplication: A common problem where the same logic is repeated across several places instead of being extracted into a separate function.&lt;/p&gt;
+&lt;p&gt;Poor readability: My functions were too long and handled too many tasks at once, making them hard to understand and modify.&lt;/p&gt;
+&lt;p&gt;What I Did
+Broke down logic into smaller parts: Instead of having one massive function, I divided it into smaller, specialized ones, each handling only one responsibility.&lt;/p&gt;
+&lt;p&gt;Eliminated unnecessary dependencies: I reviewed the connections between modules and components, eliminated unnecessary dependencies, and made the architecture more modular.&lt;/p&gt;
+&lt;p&gt;Improved code readability: I made the code as understandable as possible, both for myself and for other developers who might work with it in the future. Clear variable and function names played a crucial role.&lt;/p&gt;
+&lt;p&gt;Why Refactoring is So Important
+Without regular refactoring, a codebase starts to grow unwieldy and difficult to manage. It&amp;rsquo;s like cleaning a house — if you don&amp;rsquo;t do it regularly, things will soon get cluttered. Refactoring helps improve the structure of the system, remove unnecessary elements, and make the code more flexible and easier to maintain.&lt;/p&gt;
+&lt;p&gt;Though it took me a few days, the result was worth it. The system is now much easier to work with, and I feel confident that the next developer will have a much easier time making changes.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s why I consider refactoring not just a necessity, but an art. It&amp;rsquo;s a chance to make existing code better, cleaner, and more maintainable.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Scientific programming languages</title>
-      <link>http://localhost:39193/post/post-na-vibor-4/</link>
+      <title>When comments save lifes</title>
+      <link>http://localhost:43799/post/post-na-vibor-4/</link>
       <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:39193/post/post-na-vibor-4/</guid>
-      <description>&lt;h1 id=&#34;scientific-programming-languages&#34;&gt;Scientific programming languages&lt;/h1&gt;
-&lt;p&gt;Programming languages for scientific research play an important role in processing large amounts of data, modeling complex systems, and performing high-precision calculations. They help scientists and engineers solve problems that require significant computing resources and high performance.&lt;/p&gt;
-&lt;p&gt;In this post, we will look at several languages that are most often used in the scientific field.&lt;/p&gt;
-&lt;h2 id=&#34;1-python&#34;&gt;1. Python&lt;/h2&gt;
-&lt;p&gt;Python has become one of the most popular languages for scientific research due to its simplicity, accessibility and large number of libraries. The main advantages of Python:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Easy to learn and use&lt;/li&gt;
-&lt;li&gt;A wide range of libraries for scientific computing, such as NumPy, SciPy, Matplotlib and Pandas&lt;/li&gt;
-&lt;li&gt;Excellent tools for working with machine learning (e.g. TensorFlow, Keras, Scikit-learn)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Python is used in various fields, from data processing to creating artificial intelligence models.&lt;/p&gt;
-&lt;h2 id=&#34;2-r&#34;&gt;2. R&lt;/h2&gt;
-&lt;p&gt;R is a programming language specifically designed to work with data and statistical calculations. It is popular among statisticians and data scientists due to features such as:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;A rich set of tools for statistical analysis&lt;/li&gt;
-&lt;li&gt;Built-in functions for working with data visualization&lt;/li&gt;
-&lt;li&gt;Extensive libraries for machine learning and modeling (e.g. Caret, randomForest)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;R is actively used in bioinformatics, economics, sociology and other fields where the analysis of large amounts of data is required.&lt;/p&gt;
-&lt;h2 id=&#34;3-matlab&#34;&gt;3. MATLAB&lt;/h2&gt;
-&lt;p&gt;MATLAB is a programming language and environment for performing mathematical calculations and modeling. It is popular among engineers and scientists due to the following features:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Powerful tools for working with matrices and numerical calculations&lt;/li&gt;
-&lt;li&gt;Data visualization and modeling of physical processes&lt;/li&gt;
-&lt;li&gt;Support for a large number of libraries for applied mathematics, physics, robotics, etc.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Although MATLAB is a paid product, its convenience and power often justify the cost for large research projects.&lt;/p&gt;
-&lt;h2 id=&#34;4-julia&#34;&gt;4. Julia&lt;/h2&gt;
-&lt;p&gt;Julia is a relatively new programming language that has been designed specifically to perform high—performance computing. Its main advantages are:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;High execution speed comparable to C and Fortran languages&lt;/li&gt;
-&lt;li&gt;Simplicity of the syntax close to Python&lt;/li&gt;
-&lt;li&gt;Excellent support for multithreaded computing and working with big data&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Julia is rapidly gaining popularity in scientific circles, especially in areas requiring complex mathematical calculations and modeling.&lt;/p&gt;
-&lt;h2 id=&#34;5-fortran&#34;&gt;5. Fortran&lt;/h2&gt;
-&lt;p&gt;Fortran is one of the oldest programming languages, developed in the 1950s, but still relevant for scientific computing. It is widely used in numerical modeling, especially in physics and engineering:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;High performance and optimization for numerical calculations&lt;/li&gt;
-&lt;li&gt;Widespread use in computational fluid dynamics, weather modeling and physical processes&lt;/li&gt;
-&lt;li&gt;Excellent support for parallel computing&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Fortran remains relevant for tasks where large amounts of calculations with high accuracy are required.&lt;/p&gt;
-&lt;h2 id=&#34;6-cc&#34;&gt;6. C/C++&lt;/h2&gt;
-&lt;p&gt;C and C++ also play a significant role in scientific research due to their productivity and control over low-level processes. These languages are used in areas where high code execution speed is important, such as:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Simulations of physical processes&lt;/li&gt;
-&lt;li&gt;Processing large amounts of data&lt;/li&gt;
-&lt;li&gt;Development of system software&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;C and C++ are often used to develop software that requires working with hardware or large amounts of RAM.&lt;/p&gt;
-&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
-&lt;p&gt;The choice of a programming language for scientific research depends on the specific tasks. Languages such as Python or R are suitable for fast data development and analysis. If performance and working with low-level processes are important, then C/C++ or Fortran languages can be preferred. MATLAB and Julia are suitable for those cases where a balance between development speed and computing efficiency is required.
-It is important to remember that each of these languages has its own strengths and has specific applications, so scientists often use several languages in their projects.&lt;/p&gt;
+      <guid>http://localhost:43799/post/post-na-vibor-4/</guid>
+      <description>&lt;h1 id=&#34;comments-everywhere&#34;&gt;Comments everywhere&lt;/h1&gt;
+&lt;p&gt;We all know how important code comments are, but let’s be honest, we don’t always follow that rule. Last week, I found myself in a situation where comments literally saved my life (or at least my sanity). I was working on an old codebase that I hadn’t touched in months. It was an old project, and as you can guess, I’d forgotten most of it.&lt;/p&gt;
+&lt;p&gt;When the time came to make changes, I realized that some sections of the code were just impossible to understand at first glance. Luckily, past me had left detailed comments. Honestly, it was the only way I could figure out what I meant back then. Thanks to those comments, I was able to quickly get up to speed and make the necessary changes. Without them, it would’ve taken me twice as long.&lt;/p&gt;
+&lt;p&gt;The lesson? Never underestimate the power of good comments. When you revisit your code months later (or, even worse, someone else does), comments are your best friend. It’s one of those things that may seem unnecessary during development, but in the long run, they save you a ton of time and stress.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Markdown Report Formatting</title>
-      <link>http://localhost:39193/post/post-na-vibor-3/</link>
+      <title>The Joy (and Frustration) of Debugging</title>
+      <link>http://localhost:43799/post/post-na-vibor-3/</link>
       <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:39193/post/post-na-vibor-3/</guid>
-      <description>&lt;h1 id=&#34;markdown-report-formatting-simple-and-elegant&#34;&gt;Markdown Report Formatting: Simple and Elegant&lt;/h1&gt;
-&lt;p&gt;If you&amp;rsquo;re looking for a simple and effective way to format your reports, Markdown might be the perfect solution. Markdown is a lightweight markup language that allows you to quickly create structured documents without the need for complex editors.&lt;/p&gt;
-&lt;h2 id=&#34;what-is-markdown&#34;&gt;What is Markdown?&lt;/h2&gt;
-&lt;p&gt;Markdown is a plain text formatting language that uses a set of special symbols to format text. It was created to make it easier to write and read documents in a simple text format that can easily be converted to HTML and other formats.&lt;/p&gt;
-&lt;h2 id=&#34;advantages-of-using-markdown-for-reports&#34;&gt;Advantages of Using Markdown for Reports&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Simplicity&lt;/strong&gt;: Markdown syntax is intuitive and easy to learn. You can start using it almost immediately without having to learn complex tools.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Readability&lt;/strong&gt;: Documents written in Markdown are easy to read even in their raw form, without needing to be converted to other formats.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Portability&lt;/strong&gt;: Markdown files are plain text files that can be opened in any text editor on any platform.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Flexibility&lt;/strong&gt;: Markdown allows you to easily convert documents into various formats such as HTML, PDF or Word.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;basic-markdown-formatting-elements&#34;&gt;Basic Markdown Formatting Elements&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Headings: Use the &lt;code&gt;#&lt;/code&gt; symbols to create headings of different levels.&lt;/li&gt;
-&lt;li&gt;Lists: Use &lt;code&gt;-&lt;/code&gt; or &lt;code&gt;*&lt;/code&gt; for unordered lists and numbers for ordered lists.&lt;/li&gt;
-&lt;li&gt;Text Emphasis: Use &lt;code&gt;*&lt;/code&gt; or &lt;code&gt;_&lt;/code&gt; for italics and &lt;code&gt;**&lt;/code&gt; or &lt;code&gt;__&lt;/code&gt; for bold.&lt;/li&gt;
-&lt;li&gt;Links: Use &lt;code&gt;[link text](URL)&lt;/code&gt; to create links.&lt;/li&gt;
-&lt;li&gt;Images: Use &lt;code&gt;![alt text](image URL)&lt;/code&gt; to insert images.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;how-to-start-using-markdown-for-reports&#34;&gt;How to Start Using Markdown for Reports&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Choose a Markdown-compatible editor. This can be a simple text editor or a specialized application.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Learn the basics of Markdown syntax. It will only take a short amount of time.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Start writing your report using Markdown formatting elements.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;If necessary, convert your document to the desired format (HTML, PDF, Word) using special tools or online converters.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Using Markdown for report formatting can significantly simplify your work and save you time. Try this approach and you will appreciate its efficiency and convenience.&lt;/p&gt;
+      <guid>http://localhost:43799/post/post-na-vibor-3/</guid>
+      <description>&lt;h1 id=&#34;the-joy-and-frustration-of-debugging&#34;&gt;The Joy (and Frustration) of Debugging&lt;/h1&gt;
+&lt;p&gt;As a programmer, debugging is an integral part of my daily routine. At first glance, it may seem like the least exciting aspect of software development — after all, who enjoys fixing errors? But in reality, debugging is like solving a complex puzzle, and there’s a strange satisfaction that comes with tracking down an elusive bug.&lt;/p&gt;
+&lt;p&gt;Take last week, for instance. I was working on a seemingly straightforward feature, a small addition to an existing module. The code looked clean, and I ran all my tests before deploying it. Everything seemed fine — until it wasn’t. The system crashed unexpectedly under specific conditions, and my initial reaction was disbelief. “There’s no way that’s my code!” I thought. But, spoiler alert: it was.&lt;/p&gt;
+&lt;p&gt;What followed was a deep dive into log files, database queries, and API calls. Hours of staring at the screen, trying to find where the logic had gone astray. At times, it felt like chasing ghosts. I even had one of those moments where you swear the bug isn’t real, but then, as if to mock you, it reappears.&lt;/p&gt;
+&lt;p&gt;Eventually, after much trial and error, I discovered the issue: a race condition triggered when two services tried to write to the same database table simultaneously. It wasn’t something I had anticipated, but once identified, the solution was straightforward. A few lines of code later, and the issue was gone.&lt;/p&gt;
+&lt;p&gt;The most rewarding part of debugging isn’t just fixing the issue — it’s the learning that comes with it. Every bug teaches you something new, whether it’s about how databases handle concurrency, how memory is allocated, or how edge cases can break even the most well-designed systems. Debugging sharpens your problem-solving skills and, over time, makes you a better programmer.&lt;/p&gt;
+&lt;p&gt;So, while bugs can be frustrating, they’re also opportunities. They force you to dig deeper into the system and your code, helping you understand both better. And that feeling when you finally resolve a tough bug? That’s one of the best parts of being a programmer.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Markdown Markup Language</title>
-      <link>http://localhost:39193/post/post-na-vibor-2/</link>
+      <title>Working with Bibliography  Tips and Best Practices</title>
+      <link>http://localhost:43799/post/post-na-vibor-2/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:39193/post/post-na-vibor-2/</guid>
-      <description>&lt;h1 id=&#34;markdown-markup-language&#34;&gt;Markdown Markup Language&lt;/h1&gt;
-&lt;p&gt;Markdown is a simple and easy-to-use markup language that allows you to quickly and easily format text for publication on the internet. It was created in 2004 by John Gruber and Aaron Swartz to simplify the process of writing and reading text in HTML format.&lt;/p&gt;
-&lt;h2 id=&#34;advantages-of-markdown&#34;&gt;Advantages of Markdown&lt;/h2&gt;
-&lt;p&gt;The main advantage of Markdown is its simplicity and readability. Unlike HTML, where tags are used to format text, Markdown uses simple and intuitive symbols. For example, to italicize text, you need to surround it with asterisks (*), and to bold it, you need to use double asterisks (**). This makes text written with Markdown easy to read even in its raw form.&lt;/p&gt;
-&lt;p&gt;Another advantage of Markdown is its versatility. Many platforms and services, such as GitHub, Stack Overflow, Reddit and many others, support Markdown. This means you can use the same format to write documentation, articles, comments, and other types of content.&lt;/p&gt;
-&lt;h2 id=&#34;basic-markdown-elements&#34;&gt;Basic Markdown Elements&lt;/h2&gt;
-&lt;p&gt;Here are some basic elements you can use in Markdown:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Headings: Use the # symbol to create headings of different levels (# for H1, ## for H2, etc.)&lt;/li&gt;
-&lt;li&gt;Lists: Use - or * symbols to create unordered lists and numbers for ordered lists&lt;/li&gt;
-&lt;li&gt;Links: Use square brackets for link text and parentheses for URL (e.g., 
-)&lt;/li&gt;
-&lt;li&gt;Images: Use an exclamation mark, square brackets for alternate text, and parentheses for the image URL (e.g., 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image.jpg&#34; alt=&#34;Alt Text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-)&lt;/li&gt;
-&lt;li&gt;Quotes: Use the &amp;gt; symbol to create quote blocks&lt;/li&gt;
-&lt;li&gt;Code: Use backticks (`) to highlight inline code and triple backticks (```) for code blocks&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
-&lt;p&gt;Markdown is a powerful and easy-to-use markup language that can significantly simplify the process of creating content for web publications. Due to its readability and versatility, Markdown has become one of the most popular formats for writing documentation, articles, and other types of content on the internet. By mastering the basics of Markdown, you can quickly and efficiently create high-quality content for your projects.&lt;/p&gt;
+      <guid>http://localhost:43799/post/post-na-vibor-2/</guid>
+      <description>&lt;h1 id=&#34;working-with-bibliography--tips-and-best-practices&#34;&gt;Working with Bibliography : Tips and Best Practices&lt;/h1&gt;
+&lt;p&gt;Whether you&amp;rsquo;re writing a research paper, thesis, or a simple academic article, managing your bibliography is a crucial part of the process. A well-structured bibliography not only provides credibility to your work but also ensures that readers can trace your sources. Here are a few tips and best practices to make working with bibliographies easier and more efficient.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Use Citation Management Tools
+Tools like Zotero, EndNote, or Mendeley can significantly streamline the process. These tools allow you to organize your references, insert citations directly into your document, and automatically generate a bibliography in various citation styles (APA, MLA, Chicago, etc.). This eliminates much of the manual work and reduces the risk of errors.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Understand Different Citation Styles
+Different fields of study often require different citation styles. For example, APA is commonly used in social sciences, while MLA is popular in the humanities. It’s important to familiarize yourself with the requirements of your field and use the correct style for both in-text citations and your bibliography.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Keep Track of Sources as You Research
+One common mistake is leaving citations until the very end of the writing process. It’s a good habit to save source information as you go. This prevents the headache of trying to remember where specific pieces of information came from and ensures you don&amp;rsquo;t accidentally leave out any important references.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Be Consistent
+Whether you&amp;rsquo;re manually formatting your bibliography or using a tool, make sure you stay consistent throughout your document. Inconsistent formatting can not only make your work look unprofessional but may also lead to point deductions in academic assessments.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Verify Accuracy
+Always double-check the accuracy of your citations and bibliography. Small errors in author names, publication dates, or page numbers can undermine the credibility of your research. It’s worth taking a few minutes to verify each entry before submitting your work.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;By following these simple practices, you’ll make your bibliography management more efficient, allowing you to focus on the quality of your writing.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Last week&#39;s post (August 24-31)</title>
-      <link>http://localhost:39193/post/nedelniy-post-5/</link>
+      <link>http://localhost:43799/post/nedelniy-post-5/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:39193/post/nedelniy-post-5/</guid>
-      <description>&lt;h2 id=&#34;sad&#34;&gt;Sad&lt;/h2&gt;
-&lt;p&gt;These months at home have passed too quickly. It seemed that he had just met with his family, hugged his parents, sat with friends, and it was time to return to school. It&amp;rsquo;s so strange to realize that you have to leave everything that is so dear again.&lt;/p&gt;
-&lt;p&gt;Every corner here is saturated with memories, and every day the departure seems harder. I will miss evenings with my loved ones and walking along familiar streets. Of course, there are new knowledge and opportunities ahead, but leaving home is always difficult.&lt;/p&gt;
+      <guid>http://localhost:43799/post/nedelniy-post-5/</guid>
+      <description>&lt;h2 id=&#34;celebrating-milestones&#34;&gt;Celebrating Milestones&lt;/h2&gt;
+&lt;p&gt;This week ended on a high note! After weeks of hard work, we finally hit a major milestone. The system passed load testing with flying colors, and the performance is now well within acceptable limits. My team and I had a small celebration at the end of the week.&lt;/p&gt;
+&lt;p&gt;Looking back, I feel a great sense of accomplishment. From struggling with Docker and bugs to optimizing performance, this project has pushed me to improve my skills in many areas. Now we’re moving into the next phase — deploying the system to production. There’s still a lot to do, but I’m more confident than ever.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Last week&#39;s post (June 15-22)</title>
-      <link>http://localhost:39193/post/nedelniy-post-3/</link>
+      <link>http://localhost:43799/post/nedelniy-post-3/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:39193/post/nedelniy-post-3/</guid>
-      <description>&lt;h2 id=&#34;coming-home&#34;&gt;Coming home&lt;/h2&gt;
-&lt;p&gt;Last week I finally returned to my homeland. I&amp;rsquo;ve been waiting for this moment for a long time, and it exceeded all expectations. As soon as I got off the plane, I was overcome by a feeling of something native, familiar. The air, the smells, even the noise of the streets — everything reminded of childhood.&lt;/p&gt;
-&lt;h2 id=&#34;upon-arrival&#34;&gt;Upon arrival&lt;/h2&gt;
-&lt;p&gt;The first thing I did was go to my parents. They greeted me with warm hugs and joy in their eyes. We talked for a long time, remembering the old days. Mom cooked her favorite dishes, and at dinner we laughed like in the good old days. The house I grew up in seemed the same, but it felt like a new comfort.&lt;/p&gt;
-&lt;h2 id=&#34;old-friends&#34;&gt;Old friends&lt;/h2&gt;
-&lt;p&gt;The next day I met with friends. We all changed — someone got a job, someone got a family, but as soon as we got together, everything was exactly the same as many years ago. We walked along the old streets for a long time, laughing and sharing stories. It turned out that time could not destroy our friendship.&lt;/p&gt;
-&lt;h2 id=&#34;the-result&#34;&gt;The result&lt;/h2&gt;
-&lt;p&gt;I am glad that I was able to return and feel connected to my native places and people again. This week reminded me that roots are an important part of life, and no matter how far you go, home is always waiting for you.&lt;/p&gt;
+      <guid>http://localhost:43799/post/nedelniy-post-3/</guid>
+      <description>&lt;h2 id=&#34;refactoring-frenzy&#34;&gt;Refactoring Frenzy&lt;/h2&gt;
+&lt;p&gt;After resolving most of the bugs last week, I realized the codebase had become quite messy. So this week was dedicated to refactoring. I reorganized several modules, cleaned up redundant code, and implemented a more consistent logging system.&lt;/p&gt;
+&lt;p&gt;It was tedious work, but very satisfying. Seeing the code become more modular and easier to maintain is always rewarding. I also wrote additional unit tests to ensure future changes won’t break anything unexpectedly. Now the code is in much better shape, and I’m confident it’ll be easier to scale and extend.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Last week&#39;s post (June 23-30)</title>
-      <link>http://localhost:39193/post/nedelniy-post-4/</link>
+      <link>http://localhost:43799/post/nedelniy-post-4/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:39193/post/nedelniy-post-4/</guid>
-      <description>&lt;h2 id=&#34;briefly&#34;&gt;Briefly&lt;/h2&gt;
-&lt;p&gt;Since I am still at home, the past week is not really different from the last one, which can be found in the previous post. I visited relatives who do not live near us, saw many more friends and helped my parents with the housework.&lt;/p&gt;
+      <guid>http://localhost:43799/post/nedelniy-post-4/</guid>
+      <description>&lt;h2 id=&#34;unexpected-challenges&#34;&gt;Unexpected Challenges&lt;/h2&gt;
+&lt;p&gt;This week threw me a curveball. I encountered a serious performance issue during load testing. The system was much slower than expected under heavy traffic. After analyzing the logs, I found that one of the services was causing bottlenecks due to inefficient database queries.&lt;/p&gt;
+&lt;p&gt;I spent days optimizing those queries, indexing database tables, and implementing caching mechanisms. By the end of the week, the performance improved significantly, but I still feel there’s room for further optimization. It’s been stressful, but I’ve learned a lot about performance tuning.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Last week&#39;s post (March 11-17)</title>
-      <link>http://localhost:39193/post/nedelniy-post-1/</link>
+      <link>http://localhost:43799/post/nedelniy-post-1/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:39193/post/nedelniy-post-1/</guid>
+      <guid>http://localhost:43799/post/nedelniy-post-1/</guid>
       <description>&lt;h2 id=&#34;the-social-aspect&#34;&gt;The social aspect&lt;/h2&gt;
-&lt;p&gt;This week has been eventful and filled with a variety of impressions. I plunged into the world of art and culture by attending several interesting events. Each of them gave new emotions, reflections and inspiration. Live performances and galleries helped me disconnect from the daily hustle and bustle and rethink the usual things a little.&lt;/p&gt;
-&lt;h2 id=&#34;reunion&#34;&gt;Reunion&lt;/h2&gt;
-&lt;p&gt;In the middle of the week, I went home to my parents. These trips always bring a special feeling of peace and comfort. The homely atmosphere and native faces are a real reboot.&lt;/p&gt;
+&lt;p&gt;his week started with excitement. I was assigned a new project at work, which involves building a microservice architecture using Python and Docker.&lt;/p&gt;
 &lt;h2 id=&#34;favorite-activity&#34;&gt;Favorite activity&lt;/h2&gt;
-&lt;p&gt;Well, I ended the week on my favorite note — horseback riding. There is nothing better than riding through the fields, feeling freedom and harmony with nature. The time spent with my beloved horses was the perfect point at the end of this busy week.&lt;/p&gt;
+&lt;p&gt;I’ve worked with monolithic systems before, so diving into microservices is both a challenge and an opportunity for growth.&lt;/p&gt;
+&lt;p&gt;I spent most of the week studying different design patterns, ensuring scalability and resilience in the system. There were moments of frustration, especially when Docker containers wouldn’t behave as expected.&lt;/p&gt;
 &lt;h2 id=&#34;the-result&#34;&gt;The result&lt;/h2&gt;
-&lt;p&gt;It&amp;rsquo;s good that there are such moments!&lt;/p&gt;
+&lt;p&gt;However, by the end of the week, I managed to get a working prototype of one service. It’s just the beginning, but I’m looking forward to the coming weeks!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Last week&#39;s post (May 22-28)</title>
-      <link>http://localhost:39193/post/nedelniy-post-2/</link>
+      <link>http://localhost:43799/post/nedelniy-post-2/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:39193/post/nedelniy-post-2/</guid>
+      <guid>http://localhost:43799/post/nedelniy-post-2/</guid>
       <description>&lt;h2 id=&#34;another-exhibition&#34;&gt;Another exhibition&lt;/h2&gt;
-&lt;p&gt;The past week has been eventful and memorable. It began with a trip to the exhibition, where I was impressed not only by the works of contemporary artists, but also by the atmosphere of art in general. It was great to see how art affects the perception of the world around us, and to leave with new thoughts and ideas.&lt;/p&gt;
-&lt;h2 id=&#34;rest&#34;&gt;Rest&lt;/h2&gt;
-&lt;p&gt;Later, towards the middle of the week, I went fishing with friends. It was a great way to relax and get away from the hustle and bustle of the city. We enjoyed nature, talked around the campfire, and a few caught fish became a pleasant bonus. Time spent outdoors always gives you a boost of energy and positive emotions.&lt;/p&gt;
+&lt;p&gt;This week turned out to be intense. After setting up the initial prototype last week, I started integrating the different services. And guess what? Bugs everywhere! The communication between services wasn’t as smooth as I had anticipated.&lt;/p&gt;
 &lt;h2 id=&#34;study&#34;&gt;Study&lt;/h2&gt;
-&lt;p&gt;Of course, the week was not without study. I continued to work on important topics, trying not to lose pace. Studying took a lot of time, but each new step I took made me more confident in my knowledge. It&amp;rsquo;s nice to feel progress and realize that all the efforts are worth it.&lt;/p&gt;
+&lt;p&gt;I spent hours debugging issues related to network calls between Docker containers and configuring the message broker correctly.&lt;/p&gt;
 &lt;h2 id=&#34;the-result&#34;&gt;The result&lt;/h2&gt;
-&lt;p&gt;I ended the week with a full rest, allowing myself to relax and enjoy the silence. At such moments, you realize how important it is to be able to recover and find a balance between work, study and personal interests. It was the perfect end to a week filled with different events and emotions.&lt;/p&gt;
+&lt;p&gt;There were days when I felt like I was chasing ghosts in the code, but slowly things started to make sense. By Friday, I finally managed to fix the majority of the communication issues, and the system is now running more smoothly&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Version Control with Git.</title>
-      <link>http://localhost:39193/post/post-na-vibor-1/</link>
+      <link>http://localhost:43799/post/post-na-vibor-1/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:39193/post/post-na-vibor-1/</guid>
+      <guid>http://localhost:43799/post/post-na-vibor-1/</guid>
       <description>&lt;h1 id=&#34;version-control-with-git&#34;&gt;Version Control with Git&lt;/h1&gt;
 &lt;p&gt;Git is a distributed version control system that has become an indispensable tool for software developers. It allows you to effectively manage code changes, collaborate with other developers, and track the history of your project. Let&amp;rsquo;s explore the key concepts and commands of Git.&lt;/p&gt;
 &lt;h2 id=&#34;key-concepts-of-git&#34;&gt;Key Concepts of Git&lt;/h2&gt;
@@ -329,15 +173,15 @@ It is important to remember that each of these languages has its own strengths a
 &lt;/ol&gt;
 &lt;h2 id=&#34;key-git-commands&#34;&gt;Key Git Commands&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;git init&lt;/strong&gt;: Initializes a new Git repository in the current directory.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;git clone&lt;/strong&gt;: Clones an existing repository to your local machine.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;git add&lt;/strong&gt;: Adds changes to the index for subsequent commit.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;git commit&lt;/strong&gt;: Creates a new commit with added changes.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;git status&lt;/strong&gt;: Displays the current state of the repository, showing changed, added, and deleted files.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;git branch&lt;/strong&gt;: Manages branches, allowing you to create, delete, and switch between branches.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;git merge&lt;/strong&gt;: Merges changes from one branch into the current branch.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;git pull&lt;/strong&gt;: Downloads changes from the remote repository and merges them into the current branch.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;git push&lt;/strong&gt;: Sends local commits to the remote repository.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;git init&lt;/strong&gt;: Initializes a new Git repository in the current directory.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;git add&lt;/strong&gt;: Adds changes to the index for subsequent commit.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;git status&lt;/strong&gt;: Displays the current state of the repository, showing changed, added, and deleted files.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;benefits-of-using-git&#34;&gt;Benefits of Using Git&lt;/h2&gt;
 &lt;ol&gt;
