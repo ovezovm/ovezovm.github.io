@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Other | Мой сайт</title>
-    <link>https://ovezovm.github.io/ru/tags/other/</link>
-      <atom:link href="https://ovezovm.github.io/ru/tags/other/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:41699/ru/tags/other/</link>
+      <atom:link href="http://localhost:41699/ru/tags/other/index.xml" rel="self" type="application/rss+xml" />
     <description>Other</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 05 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ovezovm.github.io/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:41699/media/icon_hu7729264130191091259.png</url>
       <title>Other</title>
-      <link>https://ovezovm.github.io/ru/tags/other/</link>
+      <link>http://localhost:41699/ru/tags/other/</link>
     </image>
     
     <item>
       <title>Язык разметки Markdown</title>
-      <link>https://ovezovm.github.io/ru/post/post-na-vibor-2/</link>
+      <link>http://localhost:41699/ru/post/post-na-vibor-2/</link>
       <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://ovezovm.github.io/ru/post/post-na-vibor-2/</guid>
+      <guid>http://localhost:41699/ru/post/post-na-vibor-2/</guid>
       <description>&lt;h1 id=&#34;язык-разметки-markdown&#34;&gt;Язык разметки Markdown&lt;/h1&gt;
 &lt;p&gt;Markdown — это простой и удобный язык разметки, который позволяет быстро и легко форматировать текст для публикации в интернете. Он был создан в 2004 году Джоном Грубером и Аароном Шварцем с целью упростить процесс написания и чтения текста в HTML-формате.&lt;/p&gt;
 &lt;h2 id=&#34;преимущества-markdown&#34;&gt;Преимущества Markdown&lt;/h2&gt;
@@ -60,9 +60,9 @@
     
     <item>
       <title>Величественные животные</title>
-      <link>https://ovezovm.github.io/ru/post/post-na-vibor-5/</link>
+      <link>http://localhost:41699/ru/post/post-na-vibor-5/</link>
       <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://ovezovm.github.io/ru/post/post-na-vibor-5/</guid>
+      <guid>http://localhost:41699/ru/post/post-na-vibor-5/</guid>
       <description>&lt;h1 id=&#34;лошади-величественные-и-верные-спутники-человека&#34;&gt;Лошади. Величественные и Верные Спутники Человека&lt;/h1&gt;
 &lt;p&gt;Лошади – это не просто животные, они на протяжении тысячелетий играли ключевую роль в развитии человеческой цивилизации. Эти величественные создания, обладающие силой, грацией и благородством, сопровождали нас в войнах, сельском хозяйстве и путешествиях. В этом посте мы подробнее поговорим о лошадях: их истории, породах, особенностях поведения и значении для человека.&lt;/p&gt;
 &lt;h2 id=&#34;история-лошадей-от-диких-стад-до-домашних-помощников&#34;&gt;История лошадей. От диких стад до домашних помощников&lt;/h2&gt;
@@ -133,9 +133,9 @@
     
     <item>
       <title>Научные языки программирования</title>
-      <link>https://ovezovm.github.io/ru/post/post-na-vibor-4/</link>
+      <link>http://localhost:41699/ru/post/post-na-vibor-4/</link>
       <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://ovezovm.github.io/ru/post/post-na-vibor-4/</guid>
+      <guid>http://localhost:41699/ru/post/post-na-vibor-4/</guid>
       <description>&lt;h1 id=&#34;языки-научного-программирования&#34;&gt;Языки научного программирования&lt;/h1&gt;
 &lt;p&gt;Языки программирования для научных исследований играют важную роль в обработке больших объемов данных, моделировании сложных систем и проведении вычислений высокой точности. Они помогают ученым и инженерам в решении задач, которые требуют значительных вычислительных ресурсов и высокой производительности.&lt;/p&gt;
 &lt;p&gt;В этом посте мы рассмотрим несколько языков, которые чаще всего используются в научной сфере.&lt;/p&gt;
@@ -195,9 +195,9 @@
     
     <item>
       <title>Оформление отчета в Markdown</title>
-      <link>https://ovezovm.github.io/ru/post/post-na-vibor-3/</link>
+      <link>http://localhost:41699/ru/post/post-na-vibor-3/</link>
       <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://ovezovm.github.io/ru/post/post-na-vibor-3/</guid>
+      <guid>http://localhost:41699/ru/post/post-na-vibor-3/</guid>
       <description>&lt;h1 id=&#34;оформление-отчета-в-markdown-просто-и-элегантно&#34;&gt;Оформление отчета в Markdown: просто и элегантно&lt;/h1&gt;
 &lt;p&gt;Если вы ищете простой и эффективный способ оформления отчетов, то Markdown может стать отличным решением. Markdown - это легкий язык разметки, который позволяет быстро создавать структурированные документы без необходимости использования сложных редакторов.&lt;/p&gt;
 &lt;h2 id=&#34;что-такое-markdown&#34;&gt;Что такое Markdown?&lt;/h2&gt;
@@ -246,9 +246,9 @@
     
     <item>
       <title>Управление версиями Git.</title>
-      <link>https://ovezovm.github.io/ru/post/post-na-vibor-1/</link>
+      <link>http://localhost:41699/ru/post/post-na-vibor-1/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://ovezovm.github.io/ru/post/post-na-vibor-1/</guid>
+      <guid>http://localhost:41699/ru/post/post-na-vibor-1/</guid>
       <description>&lt;h1 id=&#34;управление-версиями-с-помощью-git&#34;&gt;Управление версиями с помощью Git&lt;/h1&gt;
 &lt;p&gt;Git - это распределенная система контроля версий, которая стала незаменимым инструментом для разработчиков программного обеспечения. Она позволяет эффективно управлять изменениями в коде, сотрудничать с другими разработчиками и отслеживать историю проекта. Давайте рассмотрим основные концепции и команды Git.&lt;/p&gt;
 &lt;h2 id=&#34;основные-концепции-git&#34;&gt;Основные концепции Git&lt;/h2&gt;

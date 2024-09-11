@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HORSES | My Site</title>
-    <link>https://ovezovm.github.io/tags/horses/</link>
-      <atom:link href="https://ovezovm.github.io/tags/horses/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:41699/tags/horses/</link>
+      <atom:link href="http://localhost:41699/tags/horses/index.xml" rel="self" type="application/rss+xml" />
     <description>HORSES</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2030 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ovezovm.github.io/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:41699/media/icon_hu7729264130191091259.png</url>
       <title>HORSES</title>
-      <link>https://ovezovm.github.io/tags/horses/</link>
+      <link>http://localhost:41699/tags/horses/</link>
     </image>
     
     <item>
       <title>A study that has never been conducted</title>
-      <link>https://ovezovm.github.io/publication/conference-paper/</link>
+      <link>http://localhost:41699/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2030 00:00:00 +0000</pubDate>
-      <guid>https://ovezovm.github.io/publication/conference-paper/</guid>
+      <guid>http://localhost:41699/publication/conference-paper/</guid>
       <description>&lt;h2 id=&#34;research-on-the-topic-the-influence-of-horse-mane-color-on-their-behavior-in-various-social-groups&#34;&gt;Research on the topic: &amp;ldquo;The influence of horse mane color on their behavior in various social groups&amp;rdquo;&lt;/h2&gt;
 &lt;p&gt;My name is Ikromjon Sattorov, and my colleague who helped with the research is Nick Fury. Our study was devoted to the study of the relationship between the color of the mane of horses and their social behavior in the herd. This is an unusual topic, because no one has previously considered the effect of mane color on the behavioral characteristics of animals in a social environment. We decided to find out whether the color of the mane can influence the status, aggressiveness or hierarchical position of a horse in a group.&lt;/p&gt;
 &lt;p&gt;The purpose of the study&lt;/p&gt;
@@ -52,9 +52,9 @@
     
     <item>
       <title>Horses</title>
-      <link>https://ovezovm.github.io/project/pandas/</link>
+      <link>http://localhost:41699/project/pandas/</link>
       <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://ovezovm.github.io/project/pandas/</guid>
+      <guid>http://localhost:41699/project/pandas/</guid>
       <description>&lt;p&gt;A research paper about wonderful animals - horses!&lt;/p&gt;</description>
     </item>
     

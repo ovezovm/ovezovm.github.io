@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Недавние и предстоящие переговоры | Мой сайт</title>
-    <link>https://ovezovm.github.io/ru/event/</link>
-      <atom:link href="https://ovezovm.github.io/ru/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:41699/ru/event/</link>
+      <atom:link href="http://localhost:41699/ru/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Недавние и предстоящие переговоры</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 09 Sep 2024 14:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ovezovm.github.io/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:41699/media/icon_hu7729264130191091259.png</url>
       <title>Недавние и предстоящие переговоры</title>
-      <link>https://ovezovm.github.io/ru/event/</link>
+      <link>http://localhost:41699/ru/event/</link>
     </image>
     
     <item>
       <title>Моя пересдача</title>
-      <link>https://ovezovm.github.io/ru/event/example/</link>
+      <link>http://localhost:41699/ru/event/example/</link>
       <pubDate>Mon, 09 Sep 2024 14:00:00 +0000</pubDate>
-      <guid>https://ovezovm.github.io/ru/event/example/</guid>
+      <guid>http://localhost:41699/ru/event/example/</guid>
       <description>&lt;p&gt;В данный, столь чудесный день пройдет переаттестация по предмету &amp;ldquo;Ахритектура компьютеров и операционных систем&amp;rdquo;, где будут присутствовать самые ленивые студенты и самые лучшие преподаватели!&lt;/p&gt;
 </description>
     </item>

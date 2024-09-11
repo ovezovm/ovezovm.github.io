@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic | My Site</title>
-    <link>https://ovezovm.github.io/tags/academic/</link>
-      <atom:link href="https://ovezovm.github.io/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:41699/tags/academic/</link>
+      <atom:link href="http://localhost:41699/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ovezovm.github.io/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:41699/media/icon_hu7729264130191091259.png</url>
       <title>Academic</title>
-      <link>https://ovezovm.github.io/tags/academic/</link>
+      <link>http://localhost:41699/tags/academic/</link>
     </image>
     
     <item>
       <title>Last week&#39;s post (August 24-31)</title>
-      <link>https://ovezovm.github.io/post/nedelniy-post-5/</link>
+      <link>http://localhost:41699/post/nedelniy-post-5/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://ovezovm.github.io/post/nedelniy-post-5/</guid>
+      <guid>http://localhost:41699/post/nedelniy-post-5/</guid>
       <description>&lt;h2 id=&#34;sad&#34;&gt;Sad&lt;/h2&gt;
 &lt;p&gt;These months at home have passed too quickly. It seemed that he had just met with his family, hugged his parents, sat with friends, and it was time to return to school. It&amp;rsquo;s so strange to realize that you have to leave everything that is so dear again.&lt;/p&gt;
 &lt;p&gt;Every corner here is saturated with memories, and every day the departure seems harder. I will miss evenings with my loved ones and walking along familiar streets. Of course, there are new knowledge and opportunities ahead, but leaving home is always difficult.&lt;/p&gt;
@@ -25,9 +25,9 @@
     
     <item>
       <title>Last week&#39;s post (June 15-22)</title>
-      <link>https://ovezovm.github.io/post/nedelniy-post-3/</link>
+      <link>http://localhost:41699/post/nedelniy-post-3/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://ovezovm.github.io/post/nedelniy-post-3/</guid>
+      <guid>http://localhost:41699/post/nedelniy-post-3/</guid>
       <description>&lt;h2 id=&#34;coming-home&#34;&gt;Coming home&lt;/h2&gt;
 &lt;p&gt;Last week I finally returned to my homeland. I&amp;rsquo;ve been waiting for this moment for a long time, and it exceeded all expectations. As soon as I got off the plane, I was overcome by a feeling of something native, familiar. The air, the smells, even the noise of the streets — everything reminded of childhood.&lt;/p&gt;
 &lt;h2 id=&#34;upon-arrival&#34;&gt;Upon arrival&lt;/h2&gt;
@@ -41,9 +41,9 @@
     
     <item>
       <title>Last week&#39;s post (June 23-30)</title>
-      <link>https://ovezovm.github.io/post/nedelniy-post-4/</link>
+      <link>http://localhost:41699/post/nedelniy-post-4/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://ovezovm.github.io/post/nedelniy-post-4/</guid>
+      <guid>http://localhost:41699/post/nedelniy-post-4/</guid>
       <description>&lt;h2 id=&#34;briefly&#34;&gt;Briefly&lt;/h2&gt;
 &lt;p&gt;Since I am still at home, the past week is not really different from the last one, which can be found in the previous post. I visited relatives who do not live near us, saw many more friends and helped my parents with the housework.&lt;/p&gt;
 </description>
@@ -51,9 +51,9 @@
     
     <item>
       <title>Last week&#39;s post (March 11-17)</title>
-      <link>https://ovezovm.github.io/post/nedelniy-post-1/</link>
+      <link>http://localhost:41699/post/nedelniy-post-1/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://ovezovm.github.io/post/nedelniy-post-1/</guid>
+      <guid>http://localhost:41699/post/nedelniy-post-1/</guid>
       <description>&lt;h2 id=&#34;the-social-aspect&#34;&gt;The social aspect&lt;/h2&gt;
 &lt;p&gt;This week has been eventful and filled with a variety of impressions. I plunged into the world of art and culture by attending several interesting events. Each of them gave new emotions, reflections and inspiration. Live performances and galleries helped me disconnect from the daily hustle and bustle and rethink the usual things a little.&lt;/p&gt;
 &lt;h2 id=&#34;reunion&#34;&gt;Reunion&lt;/h2&gt;
@@ -67,9 +67,9 @@
     
     <item>
       <title>Last week&#39;s post (May 22-28)</title>
-      <link>https://ovezovm.github.io/post/nedelniy-post-2/</link>
+      <link>http://localhost:41699/post/nedelniy-post-2/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://ovezovm.github.io/post/nedelniy-post-2/</guid>
+      <guid>http://localhost:41699/post/nedelniy-post-2/</guid>
       <description>&lt;h2 id=&#34;another-exhibition&#34;&gt;Another exhibition&lt;/h2&gt;
 &lt;p&gt;The past week has been eventful and memorable. It began with a trip to the exhibition, where I was impressed not only by the works of contemporary artists, but also by the atmosphere of art in general. It was great to see how art affects the perception of the world around us, and to leave with new thoughts and ideas.&lt;/p&gt;
 &lt;h2 id=&#34;rest&#34;&gt;Rest&lt;/h2&gt;
